@@ -1,0 +1,1508 @@
+code_module,code_presentation,id_student,gender,region,highest_education,imd_band,age_band,num_of_prev_attempts,studied_credits,disability,final_result
+BBB,2014B,1,M,Wales,A Level or Equivalent,20-30%,55<=,2,90,N,Fail
+EEE,2014B,2,F,North Region,A Level or Equivalent,40-50%,0-35,1,150,N,Pass
+DDD,2013J,2,M,South East Region,Post Graduate Qualification,20-30%,55<=,0,90,N,Fail
+CCC,2014B,3,F,South East Region,HE Qualification,90-100%,0-35,1,120,N,Fail
+BBB,2014B,4,M,South Region,A Level or Equivalent,70-80%,35-55,1,60,N,Distinction
+AAA,2014B,4,F,Scotland,A Level or Equivalent,30-40%,35-55,2,120,Y,Pass
+DDD,2014B,5,F,East Midlands Region,Post Graduate Qualification,80-90%,0-35,2,150,Y,Withdrawn
+AAA,2014B,5,M,West Midlands Region,Lower Than A Level,20-30%,0-35,2,90,N,Distinction
+EEE,2014B,6,F,Scotland,HE Qualification,60-70%,55<=,1,150,N,Fail
+BBB,2013J,7,F,North Western Region,HE Qualification,40-50%,35-55,2,90,N,Pass
+BBB,2014B,8,M,East Anglian Region,Post Graduate Qualification,30-40%,35-55,0,150,N,Pass
+EEE,2013J,8,F,South West Region,Lower Than A Level,20-30%,35-55,1,60,N,Fail
+AAA,2013J,9,F,South East Region,Post Graduate Qualification,80-90%,55<=,1,30,N,Fail
+CCC,2013J,9,F,East Midlands Region,Lower Than A Level,60-70%,35-55,2,30,N,Fail
+BBB,2014B,10,F,West Midlands Region,HE Qualification,30-40%,0-35,1,30,N,Pass
+AAA,2013J,10,F,North Western Region,HE Qualification,40-50%,0-35,0,90,N,Pass
+BBB,2013J,11,F,Scotland,No Formal quals,90-100%,35-55,2,120,Y,Pass
+CCC,2013J,11,M,North Region,No Formal quals,30-40%,35-55,1,90,N,Fail
+AAA,2013J,12,M,South Region,Post Graduate Qualification,30-40%,55<=,1,90,N,Pass
+CCC,2014B,13,M,Scotland,HE Qualification,80-90%,0-35,1,60,N,Fail
+CCC,2013J,14,F,Wales,No Formal quals,60-70%,0-35,0,90,N,Fail
+BBB,2014B,14,F,North Region,HE Qualification,70-80%,55<=,0,120,N,Fail
+BBB,2014B,15,F,Scotland,A Level or Equivalent,50-60%,55<=,0,30,N,Distinction
+BBB,2013J,16,F,East Anglian Region,Post Graduate Qualification,20-30%,35-55,2,150,N,Withdrawn
+AAA,2013J,16,F,Wales,HE Qualification,0-10%,0-35,0,90,N,Fail
+CCC,2014B,17,M,North Region,Lower Than A Level,80-90%,0-35,0,30,N,Pass
+EEE,2014B,17,M,South Region,No Formal quals,40-50%,55<=,0,90,N,Pass
+AAA,2014B,18,F,North Region,A Level or Equivalent,90-100%,35-55,1,30,N,Distinction
+AAA,2013J,19,F,East Midlands Region,No Formal quals,90-100%,55<=,0,120,N,Fail
+DDD,2014B,19,F,North Western Region,Post Graduate Qualification,10-20%,35-55,2,90,N,Pass
+CCC,2014B,20,F,North Region,Lower Than A Level,40-50%,0-35,0,120,N,Fail
+CCC,2013J,21,M,West Midlands Region,Post Graduate Qualification,10-20%,35-55,1,90,N,Pass
+AAA,2014B,21,F,South West Region,A Level or Equivalent,40-50%,35-55,0,30,N,Distinction
+EEE,2014B,22,F,East Midlands Region,No Formal quals,40-50%,0-35,0,150,N,Pass
+DDD,2014B,22,F,North Western Region,No Formal quals,50-60%,0-35,0,120,Y,Distinction
+EEE,2014B,23,M,South West Region,Post Graduate Qualification,0-10%,35-55,1,150,N,Fail
+CCC,2013J,23,F,Scotland,Post Graduate Qualification,90-100%,35-55,2,60,N,Pass
+AAA,2013J,24,F,London Region,Post Graduate Qualification,70-80%,35-55,2,120,N,Fail
+BBB,2013J,25,F,South East Region,Lower Than A Level,10-20%,0-35,2,60,N,Distinction
+AAA,2014B,26,F,North Western Region,HE Qualification,60-70%,35-55,0,60,N,Withdrawn
+CCC,2014B,26,M,Wales,No Formal quals,80-90%,35-55,0,30,N,Pass
+EEE,2014B,27,F,South West Region,No Formal quals,0-10%,55<=,0,30,N,Pass
+CCC,2013J,28,M,North Western Region,HE Qualification,30-40%,0-35,0,90,Y,Pass
+EEE,2014B,29,M,Wales,Lower Than A Level,80-90%,55<=,0,120,N,Fail
+AAA,2013J,29,M,Wales,A Level or Equivalent,90-100%,55<=,1,60,N,Withdrawn
+AAA,2013J,30,F,South East Region,Post Graduate Qualification,0-10%,0-35,1,150,N,Pass
+DDD,2013J,31,F,North Western Region,No Formal quals,0-10%,35-55,0,30,N,Pass
+EEE,2013J,32,F,South East Region,Lower Than A Level,60-70%,35-55,2,150,Y,Pass
+DDD,2014B,32,F,West Midlands Region,No Formal quals,80-90%,55<=,0,90,N,Withdrawn
+CCC,2013J,33,F,Wales,A Level or Equivalent,40-50%,35-55,0,90,N,Pass
+CCC,2013J,34,M,East Anglian Region,No Formal quals,50-60%,35-55,2,30,N,Withdrawn
+CCC,2014B,35,F,South Region,A Level or Equivalent,70-80%,35-55,1,120,Y,Withdrawn
+BBB,2014B,35,M,North Region,HE Qualification,80-90%,0-35,0,120,N,Pass
+DDD,2013J,36,F,Wales,HE Qualification,10-20%,35-55,1,60,N,Pass
+CCC,2014B,37,M,East Anglian Region,Lower Than A Level,40-50%,35-55,2,30,N,Fail
+DDD,2013J,37,M,Scotland,HE Qualification,20-30%,55<=,0,150,Y,Withdrawn
+DDD,2013J,38,M,South West Region,No Formal quals,40-50%,0-35,1,60,N,Pass
+BBB,2014B,39,F,East Anglian Region,HE Qualification,70-80%,35-55,2,60,N,Pass
+EEE,2014B,40,M,London Region,HE Qualification,0-10%,55<=,2,150,N,Fail
+AAA,2014B,41,F,London Region,Lower Than A Level,10-20%,0-35,1,30,N,Pass
+EEE,2013J,42,F,South East Region,HE Qualification,90-100%,0-35,0,60,N,Pass
+BBB,2013J,43,M,South West Region,Lower Than A Level,50-60%,0-35,2,90,N,Withdrawn
+AAA,2013J,43,F,North Western Region,Lower Than A Level,40-50%,0-35,1,120,N,Distinction
+CCC,2014B,44,F,Scotland,HE Qualification,90-100%,0-35,2,30,Y,Pass
+BBB,2014B,44,M,West Midlands Region,Lower Than A Level,0-10%,35-55,0,30,N,Withdrawn
+AAA,2014B,45,F,South East Region,Lower Than A Level,70-80%,55<=,2,90,N,Pass
+EEE,2014B,46,M,North Western Region,HE Qualification,60-70%,0-35,1,30,N,Distinction
+BBB,2014B,47,M,South Region,A Level or Equivalent,20-30%,0-35,0,60,Y,Pass
+CCC,2014B,47,M,West Midlands Region,HE Qualification,20-30%,35-55,0,150,N,Fail
+BBB,2014B,48,M,East Midlands Region,HE Qualification,40-50%,35-55,0,120,N,Distinction
+AAA,2014B,48,M,West Midlands Region,HE Qualification,60-70%,55<=,2,150,N,Distinction
+AAA,2013J,49,F,North Region,HE Qualification,70-80%,35-55,2,30,N,Pass
+BBB,2014B,49,M,Wales,A Level or Equivalent,50-60%,55<=,0,120,N,Distinction
+DDD,2014B,50,M,London Region,Lower Than A Level,0-10%,35-55,1,60,N,Pass
+AAA,2014B,50,M,West Midlands Region,A Level or Equivalent,30-40%,0-35,2,150,Y,Distinction
+DDD,2013J,51,F,Scotland,No Formal quals,70-80%,55<=,0,60,N,Distinction
+CCC,2013J,52,M,Wales,Post Graduate Qualification,20-30%,0-35,0,150,N,Fail
+BBB,2014B,52,F,East Midlands Region,No Formal quals,90-100%,0-35,1,90,N,Pass
+BBB,2013J,53,M,Scotland,No Formal quals,70-80%,55<=,2,90,N,Pass
+EEE,2013J,54,M,South Region,Lower Than A Level,30-40%,0-35,1,30,N,Pass
+EEE,2014B,55,M,London Region,A Level or Equivalent,0-10%,35-55,1,150,N,Fail
+BBB,2014B,56,M,South Region,Post Graduate Qualification,10-20%,55<=,2,90,N,Pass
+AAA,2013J,56,M,Wales,Post Graduate Qualification,90-100%,35-55,1,60,N,Pass
+EEE,2014B,57,F,London Region,Post Graduate Qualification,30-40%,0-35,0,60,N,Pass
+DDD,2013J,58,F,London Region,HE Qualification,40-50%,0-35,1,120,N,Withdrawn
+BBB,2013J,59,M,Wales,HE Qualification,90-100%,0-35,0,60,N,Pass
+AAA,2013J,60,F,London Region,A Level or Equivalent,0-10%,55<=,2,120,N,Pass
+CCC,2013J,61,M,London Region,A Level or Equivalent,10-20%,0-35,0,30,N,Distinction
+EEE,2013J,62,M,East Anglian Region,No Formal quals,60-70%,55<=,2,90,N,Pass
+BBB,2013J,62,M,West Midlands Region,Lower Than A Level,10-20%,0-35,1,90,N,Pass
+EEE,2013J,63,M,South Region,HE Qualification,70-80%,0-35,2,90,N,Pass
+CCC,2014B,63,F,East Anglian Region,Post Graduate Qualification,10-20%,55<=,0,30,N,Pass
+DDD,2014B,64,M,Wales,Lower Than A Level,20-30%,0-35,2,60,N,Withdrawn
+EEE,2013J,65,F,South West Region,A Level or Equivalent,60-70%,35-55,2,30,N,Distinction
+BBB,2013J,65,M,South Region,No Formal quals,10-20%,35-55,0,150,N,Pass
+AAA,2014B,66,M,Wales,HE Qualification,10-20%,0-35,2,120,N,Fail
+BBB,2013J,66,F,West Midlands Region,Lower Than A Level,60-70%,0-35,1,90,N,Fail
+BBB,2014B,67,F,London Region,Post Graduate Qualification,90-100%,35-55,0,150,N,Fail
+DDD,2014B,67,F,Wales,A Level or Equivalent,30-40%,0-35,1,60,N,Fail
+EEE,2014B,68,M,London Region,HE Qualification,50-60%,55<=,1,120,N,Pass
+BBB,2014B,68,M,East Anglian Region,A Level or Equivalent,40-50%,35-55,1,60,N,Fail
+AAA,2013J,69,M,London Region,Lower Than A Level,30-40%,0-35,2,90,N,Pass
+CCC,2014B,70,M,South Region,Lower Than A Level,20-30%,55<=,0,90,N,Pass
+BBB,2014B,70,F,Wales,HE Qualification,80-90%,0-35,0,30,N,Pass
+DDD,2014B,71,F,North Western Region,A Level or Equivalent,20-30%,0-35,2,90,N,Fail
+EEE,2014B,72,M,West Midlands Region,No Formal quals,0-10%,55<=,0,30,N,Fail
+CCC,2013J,73,F,South East Region,HE Qualification,60-70%,35-55,0,60,N,Distinction
+DDD,2013J,74,M,Scotland,Post Graduate Qualification,60-70%,55<=,1,90,N,Distinction
+EEE,2013J,75,M,London Region,A Level or Equivalent,60-70%,55<=,2,30,N,Fail
+CCC,2014B,76,F,Scotland,Lower Than A Level,90-100%,35-55,1,90,N,Pass
+AAA,2014B,77,M,East Anglian Region,No Formal quals,40-50%,0-35,2,30,N,Pass
+BBB,2013J,77,F,Wales,HE Qualification,0-10%,55<=,0,60,N,Pass
+CCC,2013J,78,M,East Anglian Region,HE Qualification,70-80%,55<=,1,150,N,Distinction
+EEE,2013J,79,M,South Region,Post Graduate Qualification,70-80%,0-35,2,150,N,Distinction
+DDD,2013J,79,F,East Midlands Region,A Level or Equivalent,80-90%,0-35,1,90,N,Fail
+DDD,2014B,80,M,London Region,A Level or Equivalent,20-30%,35-55,1,30,N,Fail
+BBB,2014B,80,M,West Midlands Region,No Formal quals,80-90%,0-35,1,150,Y,Withdrawn
+BBB,2013J,81,M,Scotland,Post Graduate Qualification,90-100%,0-35,2,30,N,Distinction
+AAA,2013J,82,M,South East Region,A Level or Equivalent,50-60%,0-35,0,120,Y,Withdrawn
+EEE,2014B,82,M,North Western Region,A Level or Equivalent,20-30%,35-55,2,150,N,Withdrawn
+BBB,2014B,83,M,London Region,No Formal quals,80-90%,0-35,1,120,N,Fail
+DDD,2013J,84,M,South West Region,A Level or Equivalent,90-100%,55<=,0,60,N,Fail
+AAA,2013J,85,F,London Region,HE Qualification,80-90%,0-35,2,60,N,Pass
+AAA,2013J,86,F,Scotland,Post Graduate Qualification,40-50%,0-35,1,120,N,Fail
+EEE,2014B,87,M,South East Region,HE Qualification,50-60%,35-55,2,60,N,Withdrawn
+BBB,2013J,87,F,South Region,Lower Than A Level,20-30%,0-35,2,150,Y,Pass
+DDD,2014B,88,F,Scotland,No Formal quals,30-40%,0-35,2,150,N,Pass
+DDD,2014B,89,F,North Region,Lower Than A Level,20-30%,0-35,1,120,Y,Fail
+DDD,2013J,90,M,North Western Region,Lower Than A Level,0-10%,35-55,1,60,N,Distinction
+AAA,2014B,91,M,West Midlands Region,Post Graduate Qualification,80-90%,0-35,0,150,N,Pass
+BBB,2014B,92,F,Wales,Post Graduate Qualification,90-100%,55<=,1,30,Y,Pass
+AAA,2014B,92,F,South Region,Post Graduate Qualification,80-90%,35-55,0,120,Y,Pass
+AAA,2013J,93,M,West Midlands Region,No Formal quals,10-20%,35-55,1,90,N,Withdrawn
+EEE,2013J,94,F,East Midlands Region,HE Qualification,80-90%,35-55,2,120,N,Pass
+BBB,2014B,94,F,East Anglian Region,A Level or Equivalent,0-10%,0-35,0,150,Y,Fail
+AAA,2014B,95,F,Scotland,A Level or Equivalent,90-100%,55<=,0,90,N,Withdrawn
+DDD,2013J,95,F,East Midlands Region,HE Qualification,10-20%,35-55,1,120,N,Fail
+AAA,2014B,96,F,North Western Region,HE Qualification,90-100%,35-55,2,60,Y,Pass
+DDD,2013J,97,M,South Region,No Formal quals,70-80%,0-35,2,150,N,Pass
+DDD,2014B,98,F,East Midlands Region,Lower Than A Level,20-30%,35-55,2,90,N,Pass
+AAA,2013J,98,M,South West Region,Post Graduate Qualification,0-10%,35-55,0,60,N,Pass
+AAA,2014B,99,F,Scotland,HE Qualification,20-30%,0-35,1,150,N,Fail
+CCC,2013J,99,F,South Region,A Level or Equivalent,20-30%,55<=,1,150,N,Fail
+BBB,2014B,100,F,South Region,A Level or Equivalent,10-20%,55<=,0,150,Y,Pass
+DDD,2014B,100,F,West Midlands Region,HE Qualification,30-40%,35-55,2,30,N,Withdrawn
+BBB,2013J,101,F,West Midlands Region,Post Graduate Qualification,60-70%,55<=,2,90,N,Pass
+EEE,2014B,101,F,South East Region,Post Graduate Qualification,80-90%,0-35,0,120,N,Withdrawn
+BBB,2013J,102,M,Wales,Post Graduate Qualification,40-50%,0-35,0,120,N,Withdrawn
+EEE,2014B,103,F,Scotland,HE Qualification,40-50%,35-55,0,30,N,Pass
+BBB,2013J,103,M,Wales,HE Qualification,0-10%,55<=,1,120,N,Withdrawn
+AAA,2013J,104,F,East Midlands Region,Lower Than A Level,10-20%,55<=,1,120,N,Distinction
+DDD,2014B,104,F,Scotland,A Level or Equivalent,60-70%,35-55,0,30,N,Pass
+DDD,2014B,105,M,South West Region,A Level or Equivalent,90-100%,35-55,1,60,N,Withdrawn
+AAA,2014B,105,M,London Region,HE Qualification,30-40%,0-35,0,90,N,Fail
+DDD,2014B,106,F,Scotland,HE Qualification,0-10%,0-35,0,150,N,Pass
+CCC,2013J,106,M,South Region,A Level or Equivalent,50-60%,35-55,1,90,N,Fail
+BBB,2014B,107,F,North Region,HE Qualification,40-50%,55<=,0,120,N,Pass
+BBB,2013J,108,F,East Anglian Region,Lower Than A Level,50-60%,35-55,2,90,N,Fail
+DDD,2014B,109,F,Scotland,Post Graduate Qualification,40-50%,0-35,1,30,N,Pass
+BBB,2013J,109,M,South Region,Lower Than A Level,60-70%,35-55,1,60,N,Pass
+BBB,2014B,110,M,East Midlands Region,Post Graduate Qualification,20-30%,55<=,0,150,N,Distinction
+CCC,2014B,111,M,North Western Region,A Level or Equivalent,30-40%,35-55,1,60,N,Pass
+AAA,2014B,112,M,South West Region,HE Qualification,90-100%,0-35,1,120,N,Distinction
+CCC,2013J,113,M,South West Region,No Formal quals,50-60%,0-35,1,30,N,Pass
+BBB,2013J,113,M,South East Region,HE Qualification,90-100%,55<=,0,120,N,Fail
+CCC,2014B,114,F,East Anglian Region,A Level or Equivalent,40-50%,55<=,0,90,N,Pass
+DDD,2013J,114,M,North Region,No Formal quals,20-30%,55<=,2,60,N,Fail
+DDD,2013J,115,F,North Western Region,A Level or Equivalent,50-60%,0-35,2,30,N,Withdrawn
+AAA,2014B,116,F,South West Region,No Formal quals,30-40%,0-35,0,120,N,Pass
+EEE,2013J,116,F,East Midlands Region,Post Graduate Qualification,0-10%,35-55,0,120,N,Pass
+AAA,2013J,117,F,North Western Region,A Level or Equivalent,60-70%,35-55,1,30,N,Pass
+DDD,2014B,117,F,North Region,Post Graduate Qualification,90-100%,0-35,0,150,N,Pass
+CCC,2013J,118,F,East Anglian Region,Post Graduate Qualification,70-80%,55<=,1,150,N,Withdrawn
+AAA,2014B,118,M,South Region,Post Graduate Qualification,0-10%,0-35,1,150,Y,Pass
+DDD,2014B,119,M,South Region,HE Qualification,60-70%,35-55,0,60,N,Pass
+CCC,2013J,119,M,East Anglian Region,Lower Than A Level,20-30%,35-55,2,60,N,Pass
+AAA,2013J,120,F,South East Region,Post Graduate Qualification,0-10%,35-55,1,60,N,Fail
+AAA,2014B,121,M,Wales,Lower Than A Level,10-20%,55<=,1,90,N,Withdrawn
+BBB,2014B,121,F,East Midlands Region,A Level or Equivalent,80-90%,0-35,1,30,N,Pass
+BBB,2013J,122,F,East Midlands Region,No Formal quals,40-50%,35-55,0,60,N,Pass
+AAA,2013J,122,F,South Region,A Level or Equivalent,50-60%,0-35,2,60,N,Pass
+AAA,2013J,123,F,London Region,A Level or Equivalent,70-80%,55<=,0,90,N,Distinction
+DDD,2014B,124,M,West Midlands Region,HE Qualification,40-50%,55<=,0,120,N,Fail
+BBB,2014B,124,M,Wales,Post Graduate Qualification,20-30%,55<=,2,120,N,Pass
+AAA,2014B,125,M,Wales,No Formal quals,90-100%,55<=,1,150,N,Distinction
+CCC,2013J,126,M,South Region,HE Qualification,20-30%,0-35,2,150,N,Distinction
+BBB,2014B,126,F,South Region,A Level or Equivalent,30-40%,35-55,2,30,N,Withdrawn
+DDD,2013J,127,F,East Anglian Region,HE Qualification,80-90%,0-35,1,120,Y,Pass
+CCC,2014B,127,F,West Midlands Region,No Formal quals,60-70%,35-55,2,30,N,Distinction
+DDD,2014B,128,M,South West Region,No Formal quals,70-80%,0-35,0,90,N,Fail
+BBB,2013J,128,F,East Anglian Region,No Formal quals,30-40%,0-35,1,120,N,Fail
+BBB,2014B,129,M,Wales,A Level or Equivalent,50-60%,55<=,0,30,N,Fail
+EEE,2014B,130,M,East Midlands Region,HE Qualification,90-100%,55<=,1,60,N,Distinction
+DDD,2014B,131,M,Scotland,Lower Than A Level,90-100%,55<=,0,60,N,Pass
+CCC,2014B,132,F,South Region,No Formal quals,20-30%,35-55,0,150,N,Fail
+BBB,2014B,133,M,Wales,Post Graduate Qualification,50-60%,35-55,2,30,N,Distinction
+EEE,2014B,134,M,Scotland,Lower Than A Level,60-70%,0-35,1,90,N,Fail
+CCC,2013J,134,M,North Region,Lower Than A Level,60-70%,0-35,1,120,N,Fail
+CCC,2013J,135,M,East Anglian Region,Post Graduate Qualification,70-80%,55<=,1,60,N,Pass
+DDD,2014B,136,M,East Midlands Region,Post Graduate Qualification,30-40%,35-55,1,60,N,Fail
+AAA,2014B,136,F,East Midlands Region,A Level or Equivalent,40-50%,0-35,2,90,N,Pass
+DDD,2014B,137,F,South East Region,Lower Than A Level,90-100%,0-35,1,150,Y,Pass
+BBB,2014B,138,M,South West Region,Post Graduate Qualification,20-30%,0-35,1,120,N,Fail
+CCC,2014B,138,F,Scotland,Lower Than A Level,20-30%,0-35,2,90,Y,Pass
+DDD,2014B,139,F,North Western Region,No Formal quals,30-40%,35-55,2,30,N,Distinction
+CCC,2014B,139,M,London Region,Post Graduate Qualification,80-90%,35-55,0,30,N,Fail
+DDD,2014B,140,F,London Region,HE Qualification,90-100%,0-35,0,120,N,Pass
+AAA,2013J,140,M,East Anglian Region,No Formal quals,50-60%,0-35,2,150,N,Distinction
+EEE,2014B,141,M,South Region,HE Qualification,40-50%,35-55,0,120,N,Distinction
+DDD,2013J,142,F,North Region,HE Qualification,50-60%,35-55,0,120,N,Withdrawn
+AAA,2014B,143,M,North Western Region,Post Graduate Qualification,70-80%,35-55,1,60,N,Pass
+CCC,2013J,143,M,South Region,Lower Than A Level,30-40%,35-55,1,90,N,Pass
+DDD,2013J,144,F,West Midlands Region,Lower Than A Level,30-40%,55<=,2,150,Y,Pass
+CCC,2014B,145,M,North Western Region,A Level or Equivalent,40-50%,0-35,2,90,N,Fail
+DDD,2013J,145,M,East Midlands Region,HE Qualification,10-20%,0-35,2,60,Y,Fail
+BBB,2014B,146,F,South East Region,Lower Than A Level,80-90%,55<=,1,30,N,Distinction
+CCC,2013J,147,F,North Region,HE Qualification,10-20%,35-55,1,90,N,Pass
+DDD,2014B,147,M,West Midlands Region,Post Graduate Qualification,90-100%,55<=,2,30,N,Pass
+AAA,2014B,148,M,West Midlands Region,No Formal quals,50-60%,35-55,2,150,N,Withdrawn
+DDD,2014B,148,M,Scotland,HE Qualification,70-80%,35-55,2,120,N,Pass
+BBB,2014B,149,M,North Western Region,No Formal quals,20-30%,55<=,1,120,N,Pass
+EEE,2013J,149,F,South West Region,HE Qualification,70-80%,35-55,1,120,N,Fail
+BBB,2014B,150,M,West Midlands Region,HE Qualification,0-10%,55<=,0,120,N,Pass
+EEE,2013J,151,F,South West Region,HE Qualification,60-70%,0-35,0,150,N,Withdrawn
+BBB,2014B,151,M,London Region,Lower Than A Level,40-50%,0-35,2,30,Y,Fail
+DDD,2013J,152,M,South Region,A Level or Equivalent,50-60%,55<=,0,90,N,Fail
+BBB,2013J,152,M,West Midlands Region,A Level or Equivalent,50-60%,55<=,1,60,N,Distinction
+DDD,2014B,153,M,North Western Region,A Level or Equivalent,90-100%,55<=,0,30,N,Pass
+BBB,2013J,153,M,North Western Region,HE Qualification,30-40%,0-35,1,60,N,Distinction
+CCC,2013J,154,M,North Western Region,Post Graduate Qualification,90-100%,0-35,2,150,Y,Pass
+EEE,2013J,155,M,Scotland,Lower Than A Level,0-10%,35-55,2,90,N,Distinction
+CCC,2014B,155,F,North Region,Post Graduate Qualification,40-50%,35-55,2,90,N,Distinction
+DDD,2014B,156,M,North Region,HE Qualification,20-30%,35-55,2,90,N,Fail
+CCC,2014B,156,M,South West Region,HE Qualification,60-70%,0-35,2,120,N,Fail
+CCC,2013J,157,F,East Anglian Region,Post Graduate Qualification,80-90%,35-55,2,150,N,Pass
+EEE,2014B,158,F,Scotland,HE Qualification,50-60%,0-35,2,150,N,Pass
+BBB,2014B,158,M,London Region,A Level or Equivalent,40-50%,55<=,0,150,N,Pass
+BBB,2013J,159,M,South Region,Lower Than A Level,0-10%,35-55,0,150,N,Distinction
+CCC,2014B,159,F,East Midlands Region,Lower Than A Level,90-100%,0-35,1,150,N,Pass
+BBB,2014B,160,F,South Region,Post Graduate Qualification,20-30%,35-55,1,60,N,Withdrawn
+DDD,2014B,161,F,South East Region,Lower Than A Level,70-80%,55<=,1,30,N,Pass
+CCC,2013J,161,F,North Western Region,No Formal quals,30-40%,0-35,0,150,Y,Distinction
+EEE,2013J,162,M,Wales,HE Qualification,90-100%,55<=,1,30,N,Distinction
+BBB,2013J,162,M,West Midlands Region,No Formal quals,20-30%,55<=,2,30,Y,Fail
+BBB,2014B,163,M,East Anglian Region,Post Graduate Qualification,20-30%,0-35,0,150,N,Pass
+DDD,2013J,163,F,South West Region,Post Graduate Qualification,90-100%,0-35,0,90,Y,Fail
+EEE,2014B,164,F,East Anglian Region,Post Graduate Qualification,10-20%,0-35,2,120,N,Withdrawn
+EEE,2013J,165,F,East Midlands Region,A Level or Equivalent,10-20%,55<=,2,150,Y,Fail
+AAA,2014B,165,M,East Midlands Region,Post Graduate Qualification,20-30%,35-55,2,150,N,Distinction
+CCC,2014B,166,M,London Region,HE Qualification,60-70%,0-35,2,60,N,Fail
+EEE,2013J,166,M,East Midlands Region,HE Qualification,50-60%,0-35,1,90,N,Fail
+DDD,2014B,167,F,Scotland,Lower Than A Level,20-30%,55<=,0,90,N,Pass
+CCC,2013J,168,F,West Midlands Region,Post Graduate Qualification,40-50%,55<=,0,30,N,Pass
+AAA,2013J,169,M,London Region,Lower Than A Level,0-10%,0-35,1,150,N,Fail
+EEE,2014B,170,M,Scotland,No Formal quals,70-80%,55<=,2,90,N,Distinction
+CCC,2014B,170,F,London Region,Lower Than A Level,90-100%,55<=,1,90,N,Pass
+DDD,2014B,171,F,Wales,Lower Than A Level,60-70%,35-55,1,120,N,Distinction
+CCC,2013J,171,M,South Region,HE Qualification,50-60%,0-35,0,30,N,Pass
+BBB,2013J,172,F,Scotland,No Formal quals,20-30%,35-55,0,150,N,Pass
+AAA,2014B,172,M,South West Region,Post Graduate Qualification,20-30%,0-35,2,150,N,Fail
+BBB,2013J,173,F,Scotland,HE Qualification,70-80%,35-55,2,150,N,Distinction
+CCC,2013J,174,F,London Region,No Formal quals,10-20%,55<=,1,150,N,Distinction
+BBB,2014B,175,F,East Midlands Region,A Level or Equivalent,50-60%,0-35,2,90,N,Distinction
+DDD,2014B,175,F,North Region,A Level or Equivalent,30-40%,35-55,2,30,N,Pass
+BBB,2014B,176,M,North Western Region,No Formal quals,10-20%,55<=,2,120,N,Pass
+BBB,2013J,177,M,East Anglian Region,Lower Than A Level,50-60%,55<=,2,150,N,Fail
+CCC,2014B,178,M,North Western Region,A Level or Equivalent,90-100%,35-55,0,120,N,Pass
+DDD,2013J,179,F,West Midlands Region,A Level or Equivalent,0-10%,55<=,1,90,N,Fail
+EEE,2013J,179,M,Wales,No Formal quals,70-80%,0-35,0,30,N,Fail
+EEE,2014B,180,F,North Region,Lower Than A Level,20-30%,55<=,1,120,N,Fail
+CCC,2013J,180,M,North Western Region,Lower Than A Level,50-60%,35-55,0,60,N,Fail
+CCC,2014B,181,M,Scotland,Lower Than A Level,70-80%,55<=,1,90,Y,Pass
+AAA,2013J,181,M,East Anglian Region,HE Qualification,40-50%,0-35,0,90,N,Fail
+EEE,2014B,182,F,South East Region,Post Graduate Qualification,70-80%,35-55,1,60,N,Fail
+BBB,2014B,182,M,North Region,Post Graduate Qualification,60-70%,35-55,2,60,N,Fail
+BBB,2013J,183,M,East Anglian Region,A Level or Equivalent,90-100%,35-55,1,30,Y,Fail
+CCC,2013J,184,F,London Region,HE Qualification,0-10%,55<=,2,30,N,Pass
+EEE,2013J,185,M,North Region,Post Graduate Qualification,20-30%,0-35,0,60,Y,Pass
+AAA,2014B,185,M,East Midlands Region,A Level or Equivalent,60-70%,0-35,0,90,N,Withdrawn
+BBB,2014B,186,M,Wales,Post Graduate Qualification,20-30%,55<=,0,60,N,Pass
+DDD,2013J,186,F,East Midlands Region,Lower Than A Level,10-20%,35-55,2,120,Y,Withdrawn
+CCC,2013J,187,F,East Midlands Region,HE Qualification,50-60%,55<=,1,30,N,Fail
+DDD,2014B,188,M,North Region,Post Graduate Qualification,40-50%,35-55,1,30,N,Pass
+CCC,2014B,189,F,Wales,Post Graduate Qualification,40-50%,35-55,1,150,N,Pass
+EEE,2013J,190,M,North Western Region,HE Qualification,50-60%,0-35,2,30,N,Pass
+CCC,2014B,190,M,South Region,Post Graduate Qualification,0-10%,35-55,2,150,Y,Pass
+CCC,2014B,191,F,Wales,HE Qualification,0-10%,55<=,1,120,N,Pass
+BBB,2014B,192,M,North Western Region,HE Qualification,70-80%,0-35,2,30,N,Pass
+EEE,2013J,192,F,West Midlands Region,Lower Than A Level,80-90%,0-35,1,60,N,Fail
+AAA,2013J,193,M,Wales,Post Graduate Qualification,10-20%,55<=,2,120,N,Pass
+EEE,2014B,194,M,South East Region,Lower Than A Level,20-30%,55<=,0,150,N,Withdrawn
+AAA,2013J,194,F,London Region,Lower Than A Level,0-10%,0-35,2,120,N,Fail
+EEE,2013J,195,F,Wales,Post Graduate Qualification,30-40%,0-35,2,30,N,Pass
+CCC,2013J,196,F,North Region,A Level or Equivalent,90-100%,35-55,0,90,N,Pass
+BBB,2014B,197,M,Scotland,Lower Than A Level,50-60%,0-35,2,120,N,Fail
+DDD,2014B,197,F,East Midlands Region,Post Graduate Qualification,40-50%,0-35,1,90,N,Pass
+DDD,2013J,198,M,Scotland,HE Qualification,40-50%,35-55,1,150,N,Fail
+AAA,2014B,198,M,East Anglian Region,Lower Than A Level,60-70%,0-35,2,120,N,Fail
+CCC,2014B,199,M,South East Region,Lower Than A Level,40-50%,35-55,1,90,N,Pass
+BBB,2013J,199,M,South East Region,Post Graduate Qualification,80-90%,35-55,2,90,N,Pass
+BBB,2014B,200,F,Wales,Lower Than A Level,20-30%,0-35,2,90,N,Fail
+BBB,2014B,201,F,East Anglian Region,A Level or Equivalent,0-10%,35-55,1,150,N,Distinction
+BBB,2014B,202,M,East Anglian Region,A Level or Equivalent,70-80%,0-35,0,150,N,Fail
+DDD,2014B,203,M,North Western Region,No Formal quals,60-70%,55<=,2,60,N,Pass
+BBB,2014B,203,M,South East Region,Post Graduate Qualification,10-20%,0-35,0,30,N,Pass
+EEE,2014B,204,F,North Western Region,No Formal quals,0-10%,55<=,2,90,N,Pass
+CCC,2014B,204,M,West Midlands Region,A Level or Equivalent,30-40%,55<=,1,30,N,Distinction
+DDD,2013J,205,F,East Midlands Region,HE Qualification,80-90%,35-55,1,150,N,Pass
+BBB,2013J,205,F,Wales,No Formal quals,30-40%,55<=,2,120,N,Pass
+BBB,2013J,206,M,South East Region,A Level or Equivalent,40-50%,0-35,2,90,N,Pass
+EEE,2014B,207,M,West Midlands Region,HE Qualification,60-70%,55<=,1,60,Y,Pass
+DDD,2014B,208,F,East Midlands Region,HE Qualification,30-40%,55<=,0,90,N,Distinction
+BBB,2013J,208,M,East Midlands Region,Lower Than A Level,30-40%,0-35,0,60,N,Fail
+EEE,2013J,209,M,East Midlands Region,HE Qualification,10-20%,55<=,0,150,N,Pass
+BBB,2013J,210,M,South West Region,HE Qualification,0-10%,55<=,1,120,N,Fail
+EEE,2014B,210,M,North Western Region,Lower Than A Level,30-40%,55<=,1,60,N,Fail
+BBB,2013J,211,F,East Midlands Region,HE Qualification,0-10%,55<=,0,30,N,Pass
+CCC,2013J,212,F,London Region,Lower Than A Level,90-100%,0-35,2,120,N,Pass
+AAA,2014B,212,M,East Midlands Region,No Formal quals,70-80%,55<=,1,90,N,Withdrawn
+EEE,2014B,213,F,Wales,Lower Than A Level,40-50%,55<=,0,30,N,Withdrawn
+DDD,2014B,214,M,North Western Region,No Formal quals,10-20%,35-55,2,120,N,Fail
+EEE,2014B,215,F,West Midlands Region,A Level or Equivalent,90-100%,0-35,0,60,N,Withdrawn
+CCC,2013J,216,F,South East Region,Post Graduate Qualification,80-90%,0-35,2,30,N,Pass
+DDD,2014B,216,F,East Midlands Region,Lower Than A Level,10-20%,35-55,1,60,N,Distinction
+EEE,2014B,217,F,North Western Region,Post Graduate Qualification,20-30%,55<=,1,150,Y,Withdrawn
+DDD,2014B,218,F,North Region,HE Qualification,30-40%,55<=,1,150,N,Distinction
+EEE,2014B,219,M,Wales,Lower Than A Level,70-80%,35-55,1,30,Y,Fail
+BBB,2014B,220,M,East Anglian Region,A Level or Equivalent,30-40%,0-35,0,60,N,Pass
+CCC,2014B,221,F,North Western Region,Post Graduate Qualification,40-50%,55<=,0,120,N,Fail
+EEE,2013J,221,M,London Region,A Level or Equivalent,20-30%,0-35,2,30,N,Fail
+BBB,2014B,222,F,East Anglian Region,HE Qualification,40-50%,55<=,1,90,N,Fail
+EEE,2014B,223,M,South East Region,A Level or Equivalent,50-60%,55<=,2,120,N,Pass
+DDD,2014B,223,M,South East Region,HE Qualification,60-70%,55<=,1,90,N,Pass
+BBB,2014B,224,F,East Anglian Region,No Formal quals,80-90%,35-55,2,150,N,Withdrawn
+AAA,2014B,225,F,London Region,No Formal quals,10-20%,35-55,2,90,N,Pass
+AAA,2014B,226,F,East Anglian Region,Lower Than A Level,50-60%,35-55,0,30,N,Distinction
+DDD,2013J,226,M,East Anglian Region,A Level or Equivalent,40-50%,35-55,2,90,N,Fail
+CCC,2014B,227,F,London Region,A Level or Equivalent,60-70%,0-35,0,150,N,Fail
+AAA,2013J,228,F,Wales,Post Graduate Qualification,90-100%,0-35,1,60,N,Withdrawn
+CCC,2013J,229,M,South West Region,HE Qualification,50-60%,0-35,1,30,N,Pass
+DDD,2013J,230,M,Wales,No Formal quals,30-40%,55<=,2,150,N,Distinction
+EEE,2014B,230,M,North Region,Post Graduate Qualification,10-20%,35-55,1,30,N,Pass
+AAA,2014B,231,M,North Western Region,Post Graduate Qualification,10-20%,0-35,1,120,N,Pass
+DDD,2013J,231,F,North Western Region,Post Graduate Qualification,70-80%,55<=,0,30,N,Pass
+AAA,2013J,232,M,Scotland,A Level or Equivalent,20-30%,0-35,1,30,N,Pass
+BBB,2013J,233,F,West Midlands Region,A Level or Equivalent,0-10%,55<=,0,150,N,Fail
+BBB,2013J,234,F,East Anglian Region,Lower Than A Level,80-90%,55<=,0,90,N,Fail
+DDD,2014B,234,F,East Midlands Region,Post Graduate Qualification,80-90%,0-35,0,30,N,Pass
+DDD,2014B,235,M,North Western Region,Lower Than A Level,10-20%,0-35,0,90,Y,Pass
+EEE,2013J,235,F,Scotland,Lower Than A Level,10-20%,35-55,1,120,N,Fail
+BBB,2013J,236,F,Scotland,No Formal quals,50-60%,55<=,0,90,Y,Pass
+AAA,2013J,237,F,South Region,Lower Than A Level,90-100%,55<=,2,90,N,Fail
+DDD,2014B,238,M,West Midlands Region,HE Qualification,30-40%,0-35,1,60,N,Fail
+BBB,2013J,238,F,South East Region,Post Graduate Qualification,0-10%,55<=,0,90,N,Fail
+EEE,2014B,239,M,South East Region,HE Qualification,60-70%,55<=,2,150,N,Withdrawn
+AAA,2014B,240,F,London Region,Lower Than A Level,80-90%,0-35,2,60,N,Withdrawn
+DDD,2014B,241,F,North Western Region,A Level or Equivalent,60-70%,35-55,1,30,N,Fail
+BBB,2013J,241,M,North Region,Lower Than A Level,0-10%,35-55,0,120,N,Pass
+AAA,2013J,242,M,South Region,Post Graduate Qualification,90-100%,0-35,0,120,N,Pass
+BBB,2013J,243,F,West Midlands Region,A Level or Equivalent,50-60%,0-35,1,90,N,Fail
+DDD,2013J,243,F,North Region,A Level or Equivalent,10-20%,55<=,0,150,Y,Distinction
+BBB,2013J,244,F,South East Region,Lower Than A Level,20-30%,55<=,2,150,N,Withdrawn
+EEE,2013J,244,M,Wales,Lower Than A Level,50-60%,55<=,1,120,N,Pass
+EEE,2014B,245,M,South East Region,Lower Than A Level,20-30%,0-35,0,150,N,Pass
+DDD,2013J,245,M,North Western Region,Lower Than A Level,10-20%,35-55,0,90,N,Pass
+EEE,2014B,246,M,London Region,No Formal quals,20-30%,0-35,1,120,N,Pass
+EEE,2013J,247,M,Scotland,Lower Than A Level,60-70%,35-55,1,90,N,Pass
+DDD,2013J,247,M,East Midlands Region,HE Qualification,50-60%,35-55,1,90,N,Fail
+AAA,2013J,248,M,Scotland,Post Graduate Qualification,10-20%,0-35,2,90,N,Fail
+CCC,2014B,249,F,South East Region,No Formal quals,10-20%,0-35,0,60,N,Pass
+AAA,2014B,249,F,West Midlands Region,Lower Than A Level,50-60%,0-35,1,30,N,Withdrawn
+BBB,2013J,250,F,London Region,No Formal quals,60-70%,55<=,0,90,N,Pass
+DDD,2013J,250,M,South West Region,HE Qualification,70-80%,55<=,2,150,Y,Pass
+BBB,2014B,251,F,North Western Region,Lower Than A Level,10-20%,35-55,2,120,N,Pass
+EEE,2014B,252,M,Wales,HE Qualification,70-80%,55<=,2,150,N,Distinction
+AAA,2013J,252,F,East Anglian Region,Post Graduate Qualification,30-40%,0-35,1,120,N,Pass
+EEE,2014B,253,F,Wales,A Level or Equivalent,70-80%,35-55,2,120,N,Pass
+BBB,2014B,254,M,South West Region,A Level or Equivalent,40-50%,35-55,0,150,N,Pass
+DDD,2013J,255,M,South West Region,No Formal quals,0-10%,0-35,1,90,N,Pass
+EEE,2013J,255,M,North Region,Lower Than A Level,60-70%,0-35,2,60,N,Fail
+EEE,2013J,256,M,East Anglian Region,HE Qualification,40-50%,35-55,2,150,N,Pass
+AAA,2013J,257,M,London Region,Post Graduate Qualification,40-50%,35-55,2,120,N,Pass
+AAA,2014B,258,M,North Region,Lower Than A Level,90-100%,55<=,2,120,N,Fail
+DDD,2013J,258,M,South Region,HE Qualification,80-90%,55<=,1,150,N,Pass
+BBB,2014B,259,F,East Anglian Region,Post Graduate Qualification,30-40%,0-35,0,120,N,Pass
+CCC,2013J,259,F,South East Region,A Level or Equivalent,60-70%,35-55,2,60,N,Pass
+BBB,2014B,260,M,Scotland,A Level or Equivalent,0-10%,35-55,2,150,N,Pass
+EEE,2014B,261,M,South West Region,HE Qualification,70-80%,55<=,2,30,N,Fail
+DDD,2013J,261,M,South Region,HE Qualification,80-90%,0-35,1,30,N,Fail
+EEE,2013J,262,M,East Midlands Region,HE Qualification,70-80%,55<=,1,120,N,Fail
+BBB,2014B,262,M,London Region,Lower Than A Level,0-10%,0-35,1,150,N,Fail
+DDD,2014B,263,M,North Region,HE Qualification,0-10%,55<=,2,90,N,Pass
+CCC,2014B,263,M,West Midlands Region,Lower Than A Level,60-70%,55<=,0,90,N,Pass
+AAA,2013J,264,M,South Region,A Level or Equivalent,30-40%,35-55,0,30,N,Pass
+DDD,2013J,264,F,North Western Region,Lower Than A Level,0-10%,35-55,1,30,N,Pass
+AAA,2013J,265,M,West Midlands Region,Post Graduate Qualification,70-80%,55<=,1,150,N,Pass
+CCC,2014B,265,F,North Region,A Level or Equivalent,80-90%,35-55,1,90,N,Fail
+BBB,2013J,266,F,East Midlands Region,No Formal quals,90-100%,55<=,1,60,N,Withdrawn
+EEE,2013J,266,F,South West Region,HE Qualification,50-60%,0-35,1,90,N,Pass
+CCC,2013J,267,M,South Region,No Formal quals,90-100%,35-55,1,120,N,Fail
+CCC,2013J,268,M,South West Region,Post Graduate Qualification,10-20%,0-35,2,90,N,Pass
+DDD,2014B,268,M,West Midlands Region,Lower Than A Level,40-50%,35-55,0,150,N,Distinction
+BBB,2014B,269,F,East Anglian Region,Post Graduate Qualification,20-30%,35-55,2,120,N,Withdrawn
+AAA,2013J,270,M,North Region,Post Graduate Qualification,90-100%,35-55,0,60,N,Pass
+BBB,2014B,271,F,Wales,HE Qualification,0-10%,0-35,2,60,N,Fail
+EEE,2013J,272,M,North Region,A Level or Equivalent,0-10%,35-55,0,150,N,Pass
+DDD,2013J,273,M,East Anglian Region,No Formal quals,70-80%,55<=,1,150,N,Fail
+DDD,2014B,274,F,North Region,Lower Than A Level,10-20%,35-55,0,30,N,Distinction
+BBB,2013J,275,M,North Western Region,HE Qualification,20-30%,55<=,2,60,N,Fail
+AAA,2013J,275,M,East Anglian Region,Lower Than A Level,10-20%,0-35,2,120,N,Fail
+BBB,2014B,276,F,West Midlands Region,Lower Than A Level,30-40%,0-35,1,120,N,Fail
+AAA,2013J,276,F,West Midlands Region,Lower Than A Level,80-90%,55<=,0,60,N,Withdrawn
+CCC,2013J,277,F,South East Region,A Level or Equivalent,10-20%,0-35,0,150,N,Pass
+DDD,2014B,278,F,South East Region,No Formal quals,30-40%,0-35,2,60,N,Pass
+BBB,2014B,278,M,Wales,A Level or Equivalent,30-40%,35-55,2,90,N,Fail
+BBB,2013J,279,M,North Region,Lower Than A Level,50-60%,0-35,1,90,N,Fail
+EEE,2013J,279,F,South West Region,HE Qualification,10-20%,0-35,2,30,N,Distinction
+AAA,2013J,280,F,Scotland,No Formal quals,70-80%,55<=,0,60,N,Distinction
+CCC,2014B,281,F,Scotland,A Level or Equivalent,20-30%,55<=,2,150,N,Withdrawn
+DDD,2013J,281,M,Scotland,Post Graduate Qualification,80-90%,35-55,1,90,Y,Pass
+DDD,2014B,282,F,East Midlands Region,Post Graduate Qualification,90-100%,0-35,2,60,Y,Pass
+BBB,2013J,282,M,West Midlands Region,Post Graduate Qualification,0-10%,55<=,0,30,N,Fail
+CCC,2013J,283,F,Wales,A Level or Equivalent,60-70%,0-35,0,150,N,Pass
+EEE,2013J,284,F,Wales,Lower Than A Level,60-70%,0-35,0,120,N,Distinction
+CCC,2013J,285,M,Scotland,No Formal quals,50-60%,0-35,1,120,N,Pass
+AAA,2013J,285,M,North Western Region,Post Graduate Qualification,80-90%,0-35,1,60,Y,Fail
+AAA,2013J,286,F,Scotland,No Formal quals,90-100%,0-35,1,120,N,Fail
+BBB,2013J,287,M,Wales,A Level or Equivalent,30-40%,35-55,1,60,N,Pass
+EEE,2014B,287,F,South West Region,No Formal quals,70-80%,0-35,2,150,N,Distinction
+BBB,2013J,288,F,East Anglian Region,Post Graduate Qualification,40-50%,35-55,2,60,N,Pass
+EEE,2013J,288,F,London Region,A Level or Equivalent,20-30%,55<=,1,90,N,Fail
+AAA,2014B,289,F,East Midlands Region,No Formal quals,90-100%,35-55,0,150,N,Fail
+CCC,2013J,289,M,North Region,No Formal quals,50-60%,0-35,1,90,N,Withdrawn
+DDD,2014B,290,M,South East Region,HE Qualification,90-100%,0-35,1,120,N,Fail
+CCC,2013J,290,F,South Region,Lower Than A Level,10-20%,55<=,0,60,Y,Withdrawn
+EEE,2013J,291,F,Wales,A Level or Equivalent,70-80%,35-55,1,60,N,Distinction
+BBB,2014B,291,M,South Region,No Formal quals,30-40%,0-35,0,150,N,Withdrawn
+BBB,2014B,292,M,West Midlands Region,Lower Than A Level,60-70%,55<=,1,120,N,Fail
+AAA,2013J,293,F,East Anglian Region,HE Qualification,50-60%,55<=,1,150,N,Pass
+DDD,2014B,293,F,London Region,Lower Than A Level,0-10%,0-35,2,90,N,Pass
+BBB,2013J,294,M,North Region,HE Qualification,50-60%,35-55,0,150,N,Pass
+AAA,2013J,294,M,South Region,Post Graduate Qualification,60-70%,55<=,2,90,N,Withdrawn
+EEE,2013J,295,F,Wales,HE Qualification,0-10%,35-55,0,120,N,Pass
+BBB,2013J,296,F,South Region,No Formal quals,30-40%,0-35,2,120,N,Withdrawn
+BBB,2014B,297,M,North Region,Post Graduate Qualification,30-40%,55<=,0,150,N,Pass
+AAA,2013J,298,M,East Midlands Region,Post Graduate Qualification,70-80%,55<=,2,90,N,Pass
+DDD,2014B,298,M,South East Region,A Level or Equivalent,50-60%,35-55,2,90,N,Pass
+DDD,2014B,299,F,London Region,Post Graduate Qualification,50-60%,55<=,2,90,N,Withdrawn
+CCC,2014B,299,F,North Region,Post Graduate Qualification,20-30%,0-35,0,150,N,Distinction
+CCC,2014B,300,F,South Region,Lower Than A Level,0-10%,55<=,1,60,N,Withdrawn
+AAA,2013J,301,M,East Midlands Region,A Level or Equivalent,80-90%,35-55,0,90,Y,Pass
+EEE,2014B,302,F,South Region,No Formal quals,70-80%,0-35,2,60,N,Fail
+AAA,2013J,303,M,South East Region,HE Qualification,10-20%,0-35,0,60,N,Fail
+CCC,2013J,303,F,North Region,Lower Than A Level,30-40%,0-35,0,120,N,Pass
+AAA,2014B,304,M,South West Region,A Level or Equivalent,80-90%,0-35,2,150,N,Pass
+AAA,2014B,305,M,Scotland,Post Graduate Qualification,20-30%,55<=,2,90,N,Fail
+BBB,2013J,305,F,South East Region,HE Qualification,30-40%,35-55,1,90,N,Withdrawn
+DDD,2013J,306,M,East Anglian Region,A Level or Equivalent,90-100%,55<=,1,150,N,Fail
+CCC,2014B,306,F,North Western Region,No Formal quals,10-20%,55<=,1,150,Y,Withdrawn
+AAA,2013J,307,M,East Midlands Region,No Formal quals,60-70%,0-35,0,90,N,Pass
+CCC,2014B,307,M,Wales,Post Graduate Qualification,50-60%,35-55,2,90,N,Fail
+BBB,2014B,308,M,South Region,Lower Than A Level,10-20%,0-35,1,150,Y,Pass
+EEE,2013J,308,F,South East Region,HE Qualification,60-70%,0-35,0,90,N,Pass
+BBB,2013J,309,F,North Region,No Formal quals,60-70%,0-35,1,150,N,Pass
+AAA,2013J,309,F,South West Region,No Formal quals,20-30%,55<=,1,120,N,Pass
+BBB,2014B,310,F,South West Region,A Level or Equivalent,30-40%,55<=,2,150,Y,Pass
+DDD,2014B,310,M,North Western Region,HE Qualification,40-50%,0-35,2,60,N,Pass
+CCC,2014B,311,F,West Midlands Region,HE Qualification,80-90%,35-55,0,30,N,Fail
+BBB,2013J,312,F,Wales,Lower Than A Level,80-90%,35-55,1,150,Y,Pass
+CCC,2013J,312,F,East Midlands Region,Post Graduate Qualification,20-30%,55<=,2,30,N,Distinction
+CCC,2014B,313,M,South East Region,No Formal quals,40-50%,0-35,1,60,N,Fail
+DDD,2014B,314,M,Scotland,HE Qualification,60-70%,55<=,2,90,N,Fail
+BBB,2013J,315,M,South West Region,Lower Than A Level,10-20%,55<=,2,30,N,Fail
+CCC,2013J,315,F,East Anglian Region,No Formal quals,90-100%,55<=,1,90,N,Fail
+AAA,2014B,316,F,North Western Region,Post Graduate Qualification,70-80%,55<=,2,150,N,Distinction
+CCC,2013J,316,M,North Region,Lower Than A Level,60-70%,55<=,2,150,N,Pass
+BBB,2013J,317,M,Scotland,Lower Than A Level,70-80%,55<=,1,60,Y,Fail
+BBB,2013J,318,M,South East Region,No Formal quals,0-10%,55<=,0,150,Y,Fail
+CCC,2014B,319,M,East Midlands Region,No Formal quals,50-60%,35-55,0,90,N,Withdrawn
+EEE,2013J,319,M,North Western Region,HE Qualification,70-80%,55<=,1,30,N,Distinction
+BBB,2013J,320,F,London Region,A Level or Equivalent,80-90%,35-55,0,90,N,Fail
+EEE,2013J,321,M,Scotland,Post Graduate Qualification,70-80%,55<=,1,60,N,Pass
+BBB,2013J,321,F,North Region,HE Qualification,60-70%,55<=,1,60,N,Pass
+BBB,2013J,322,F,West Midlands Region,HE Qualification,80-90%,35-55,0,90,N,Fail
+CCC,2013J,322,F,Scotland,A Level or Equivalent,30-40%,35-55,0,60,N,Distinction
+DDD,2013J,323,M,South East Region,No Formal quals,30-40%,0-35,0,60,N,Distinction
+DDD,2014B,324,F,South West Region,No Formal quals,60-70%,0-35,1,60,N,Fail
+EEE,2013J,325,F,East Midlands Region,No Formal quals,90-100%,55<=,1,90,N,Pass
+BBB,2014B,326,M,North Western Region,HE Qualification,30-40%,55<=,0,120,N,Fail
+CCC,2013J,326,M,North Region,Post Graduate Qualification,60-70%,35-55,2,30,Y,Pass
+AAA,2014B,327,F,North Western Region,A Level or Equivalent,0-10%,55<=,0,150,N,Fail
+EEE,2014B,327,M,North Region,A Level or Equivalent,60-70%,35-55,0,30,Y,Fail
+AAA,2014B,328,F,North Western Region,Lower Than A Level,50-60%,0-35,1,90,N,Pass
+AAA,2014B,329,F,North Region,Lower Than A Level,60-70%,0-35,0,30,N,Distinction
+BBB,2014B,329,F,North Western Region,Lower Than A Level,20-30%,35-55,0,90,N,Pass
+BBB,2013J,330,F,Wales,HE Qualification,10-20%,55<=,0,30,N,Pass
+AAA,2013J,331,F,North Western Region,Post Graduate Qualification,0-10%,55<=,1,60,N,Pass
+BBB,2013J,331,F,London Region,A Level or Equivalent,30-40%,55<=,2,90,N,Withdrawn
+AAA,2013J,332,M,East Anglian Region,A Level or Equivalent,80-90%,0-35,1,60,N,Withdrawn
+CCC,2013J,332,F,East Midlands Region,Lower Than A Level,50-60%,35-55,0,150,N,Pass
+BBB,2014B,333,M,Wales,A Level or Equivalent,90-100%,0-35,2,30,N,Distinction
+AAA,2014B,334,M,South West Region,HE Qualification,40-50%,0-35,2,30,N,Pass
+DDD,2014B,334,M,Scotland,HE Qualification,30-40%,35-55,1,60,N,Distinction
+DDD,2013J,335,M,East Anglian Region,Post Graduate Qualification,30-40%,0-35,1,90,N,Fail
+EEE,2014B,335,F,East Midlands Region,Post Graduate Qualification,50-60%,35-55,1,60,N,Distinction
+DDD,2013J,336,M,South West Region,No Formal quals,90-100%,0-35,2,60,N,Distinction
+DDD,2014B,337,F,South East Region,A Level or Equivalent,0-10%,35-55,0,120,N,Pass
+AAA,2014B,337,F,East Midlands Region,Lower Than A Level,90-100%,55<=,2,120,N,Distinction
+BBB,2013J,338,F,East Midlands Region,Post Graduate Qualification,20-30%,35-55,1,150,N,Withdrawn
+DDD,2013J,339,M,Scotland,A Level or Equivalent,0-10%,35-55,1,30,N,Withdrawn
+EEE,2014B,340,M,East Anglian Region,Post Graduate Qualification,40-50%,0-35,1,150,N,Pass
+BBB,2014B,341,F,South East Region,Post Graduate Qualification,0-10%,35-55,2,30,N,Withdrawn
+AAA,2014B,342,M,South Region,Lower Than A Level,10-20%,35-55,1,150,N,Fail
+BBB,2014B,342,F,East Midlands Region,Post Graduate Qualification,0-10%,35-55,2,150,N,Fail
+BBB,2014B,343,M,South West Region,Post Graduate Qualification,90-100%,0-35,2,120,N,Pass
+DDD,2013J,343,M,Scotland,A Level or Equivalent,0-10%,55<=,1,150,N,Fail
+DDD,2013J,344,M,South West Region,Lower Than A Level,90-100%,55<=,1,90,Y,Pass
+CCC,2014B,345,M,South East Region,A Level or Equivalent,30-40%,0-35,1,120,N,Pass
+AAA,2013J,345,M,South East Region,Lower Than A Level,70-80%,0-35,2,90,N,Pass
+CCC,2014B,346,F,South West Region,No Formal quals,80-90%,55<=,1,60,N,Distinction
+EEE,2013J,347,F,West Midlands Region,HE Qualification,0-10%,0-35,0,60,N,Pass
+BBB,2013J,348,F,West Midlands Region,A Level or Equivalent,40-50%,0-35,1,150,N,Pass
+CCC,2014B,348,F,South Region,No Formal quals,10-20%,0-35,0,30,N,Distinction
+BBB,2014B,349,M,London Region,Post Graduate Qualification,40-50%,55<=,2,60,N,Pass
+EEE,2013J,350,M,Scotland,HE Qualification,90-100%,55<=,0,120,N,Fail
+CCC,2013J,350,M,London Region,HE Qualification,60-70%,35-55,2,120,N,Fail
+CCC,2014B,351,M,East Anglian Region,HE Qualification,90-100%,35-55,1,150,N,Fail
+BBB,2014B,351,F,South West Region,HE Qualification,90-100%,35-55,1,30,N,Pass
+EEE,2013J,352,F,East Anglian Region,Post Graduate Qualification,90-100%,0-35,0,60,N,Pass
+AAA,2013J,353,M,South West Region,HE Qualification,10-20%,55<=,1,90,N,Fail
+CCC,2014B,353,F,North Western Region,A Level or Equivalent,50-60%,0-35,1,60,N,Fail
+AAA,2014B,354,M,North Region,Post Graduate Qualification,40-50%,55<=,0,90,N,Pass
+BBB,2013J,354,F,Wales,No Formal quals,40-50%,0-35,2,90,N,Pass
+DDD,2014B,355,F,West Midlands Region,No Formal quals,20-30%,55<=,1,60,N,Pass
+DDD,2013J,356,M,North Western Region,Lower Than A Level,0-10%,55<=,1,150,N,Fail
+CCC,2013J,356,F,Scotland,No Formal quals,20-30%,35-55,0,60,N,Pass
+BBB,2014B,357,M,Scotland,A Level or Equivalent,40-50%,35-55,0,120,N,Fail
+EEE,2014B,358,F,Wales,No Formal quals,10-20%,35-55,2,120,N,Pass
+CCC,2013J,358,F,North Region,No Formal quals,50-60%,35-55,2,60,Y,Fail
+EEE,2014B,359,M,East Midlands Region,HE Qualification,10-20%,0-35,1,90,N,Fail
+DDD,2014B,359,F,South East Region,A Level or Equivalent,80-90%,55<=,2,60,N,Pass
+AAA,2013J,360,M,Scotland,A Level or Equivalent,0-10%,0-35,1,120,N,Pass
+AAA,2014B,361,M,Wales,A Level or Equivalent,60-70%,0-35,2,60,N,Withdrawn
+CCC,2013J,361,M,West Midlands Region,HE Qualification,30-40%,35-55,2,60,N,Pass
+EEE,2014B,362,F,Wales,HE Qualification,70-80%,35-55,0,150,N,Distinction
+AAA,2013J,363,F,South East Region,Post Graduate Qualification,10-20%,55<=,1,150,N,Fail
+AAA,2014B,364,F,South West Region,Post Graduate Qualification,80-90%,55<=,0,150,N,Withdrawn
+DDD,2013J,365,F,West Midlands Region,Post Graduate Qualification,20-30%,55<=,2,120,N,Pass
+EEE,2013J,366,M,Wales,No Formal quals,0-10%,55<=,2,150,N,Pass
+BBB,2014B,367,M,South East Region,No Formal quals,0-10%,0-35,0,120,N,Fail
+CCC,2013J,368,F,South East Region,Lower Than A Level,90-100%,35-55,0,30,N,Fail
+DDD,2013J,369,F,Wales,No Formal quals,20-30%,35-55,2,60,N,Withdrawn
+EEE,2014B,370,F,Wales,Lower Than A Level,80-90%,0-35,0,60,N,Pass
+BBB,2013J,370,M,Scotland,HE Qualification,30-40%,0-35,0,150,N,Pass
+CCC,2014B,371,M,South West Region,A Level or Equivalent,0-10%,55<=,2,90,N,Fail
+BBB,2014B,371,M,North Region,Post Graduate Qualification,0-10%,55<=,0,120,N,Distinction
+DDD,2014B,372,M,South East Region,HE Qualification,30-40%,35-55,1,120,N,Fail
+AAA,2014B,372,M,Scotland,Post Graduate Qualification,0-10%,55<=,0,120,N,Pass
+BBB,2014B,373,F,Wales,No Formal quals,0-10%,35-55,0,150,N,Fail
+BBB,2014B,374,M,East Midlands Region,Post Graduate Qualification,40-50%,55<=,1,60,N,Withdrawn
+AAA,2014B,374,M,South West Region,No Formal quals,90-100%,35-55,1,90,N,Distinction
+BBB,2014B,375,M,Wales,HE Qualification,80-90%,0-35,0,60,N,Pass
+CCC,2013J,375,F,North Region,Lower Than A Level,20-30%,35-55,0,150,N,Withdrawn
+DDD,2014B,376,M,North Region,HE Qualification,0-10%,55<=,1,90,N,Withdrawn
+AAA,2013J,377,F,Wales,No Formal quals,10-20%,55<=,1,30,N,Pass
+CCC,2013J,377,M,North Western Region,A Level or Equivalent,40-50%,55<=,0,90,N,Pass
+CCC,2013J,378,F,South West Region,Lower Than A Level,40-50%,0-35,0,30,Y,Fail
+AAA,2013J,379,M,London Region,A Level or Equivalent,30-40%,55<=,0,150,N,Pass
+DDD,2014B,380,M,Wales,Post Graduate Qualification,30-40%,0-35,0,120,N,Fail
+DDD,2014B,381,M,West Midlands Region,Lower Than A Level,20-30%,55<=,0,30,N,Pass
+EEE,2013J,381,F,West Midlands Region,Post Graduate Qualification,20-30%,35-55,2,90,N,Fail
+CCC,2013J,382,M,London Region,Post Graduate Qualification,50-60%,35-55,1,90,N,Fail
+CCC,2014B,383,F,South West Region,Post Graduate Qualification,10-20%,35-55,2,30,N,Pass
+DDD,2014B,384,F,South Region,Post Graduate Qualification,80-90%,35-55,2,120,N,Distinction
+BBB,2013J,385,F,South East Region,No Formal quals,10-20%,35-55,1,120,N,Pass
+CCC,2013J,386,F,East Midlands Region,Lower Than A Level,60-70%,55<=,2,60,Y,Pass
+EEE,2014B,386,M,Scotland,Post Graduate Qualification,50-60%,35-55,0,60,N,Withdrawn
+EEE,2014B,387,M,East Anglian Region,No Formal quals,70-80%,35-55,1,30,N,Fail
+AAA,2014B,387,F,East Midlands Region,Lower Than A Level,20-30%,0-35,1,120,N,Pass
+CCC,2013J,388,F,East Midlands Region,No Formal quals,30-40%,35-55,1,150,N,Fail
+DDD,2014B,388,M,North Western Region,HE Qualification,80-90%,35-55,0,150,N,Pass
+EEE,2013J,389,M,North Western Region,Lower Than A Level,90-100%,0-35,2,150,N,Fail
+CCC,2013J,390,F,North Region,No Formal quals,20-30%,55<=,0,60,N,Withdrawn
+AAA,2014B,390,F,South East Region,Post Graduate Qualification,10-20%,55<=,2,90,N,Pass
+DDD,2014B,391,F,East Midlands Region,Post Graduate Qualification,60-70%,55<=,0,150,N,Fail
+BBB,2013J,391,F,North Region,A Level or Equivalent,50-60%,0-35,2,120,Y,Pass
+EEE,2013J,392,M,South West Region,A Level or Equivalent,50-60%,35-55,0,150,N,Pass
+DDD,2013J,393,F,North Region,Lower Than A Level,10-20%,35-55,1,150,N,Distinction
+AAA,2013J,393,F,Wales,No Formal quals,30-40%,0-35,2,60,N,Pass
+EEE,2014B,394,M,South West Region,Post Graduate Qualification,10-20%,0-35,2,60,N,Pass
+CCC,2013J,395,M,South Region,Lower Than A Level,70-80%,0-35,2,30,N,Distinction
+DDD,2013J,395,M,South West Region,A Level or Equivalent,30-40%,55<=,2,60,N,Pass
+BBB,2013J,396,F,South Region,Lower Than A Level,20-30%,35-55,1,120,N,Fail
+CCC,2013J,397,F,Scotland,Post Graduate Qualification,30-40%,35-55,0,30,N,Withdrawn
+DDD,2013J,398,M,South East Region,Post Graduate Qualification,90-100%,0-35,1,90,N,Distinction
+BBB,2014B,399,F,South West Region,Lower Than A Level,40-50%,35-55,1,90,N,Pass
+BBB,2013J,400,F,North Region,No Formal quals,70-80%,55<=,1,150,N,Distinction
+CCC,2013J,401,M,South East Region,A Level or Equivalent,50-60%,0-35,1,150,Y,Pass
+EEE,2014B,401,M,North Region,Post Graduate Qualification,50-60%,55<=,1,150,N,Pass
+EEE,2013J,402,M,East Anglian Region,Lower Than A Level,70-80%,55<=,0,150,N,Fail
+AAA,2013J,403,M,Wales,Lower Than A Level,0-10%,55<=,1,60,N,Distinction
+CCC,2014B,404,F,South East Region,A Level or Equivalent,60-70%,35-55,1,150,N,Withdrawn
+BBB,2013J,405,M,South Region,No Formal quals,80-90%,55<=,2,90,N,Fail
+CCC,2013J,405,F,East Anglian Region,A Level or Equivalent,20-30%,55<=,0,90,N,Pass
+EEE,2014B,406,M,South Region,Lower Than A Level,40-50%,55<=,0,60,Y,Withdrawn
+DDD,2013J,407,M,North Western Region,Post Graduate Qualification,60-70%,0-35,1,30,N,Fail
+CCC,2014B,408,F,East Anglian Region,Post Graduate Qualification,70-80%,55<=,1,120,N,Distinction
+EEE,2013J,409,F,West Midlands Region,Lower Than A Level,30-40%,0-35,0,120,N,Withdrawn
+BBB,2013J,409,F,Scotland,HE Qualification,10-20%,35-55,1,150,N,Distinction
+CCC,2013J,410,F,North Western Region,HE Qualification,0-10%,0-35,1,120,Y,Pass
+AAA,2013J,411,M,South Region,A Level or Equivalent,20-30%,0-35,2,90,N,Pass
+DDD,2014B,412,M,Wales,HE Qualification,90-100%,35-55,1,90,N,Withdrawn
+AAA,2013J,412,M,East Anglian Region,Post Graduate Qualification,30-40%,35-55,0,30,Y,Pass
+EEE,2014B,413,F,Scotland,HE Qualification,0-10%,55<=,2,90,N,Pass
+AAA,2013J,414,F,South East Region,HE Qualification,80-90%,35-55,0,120,N,Fail
+CCC,2014B,414,M,West Midlands Region,Post Graduate Qualification,10-20%,0-35,1,150,N,Withdrawn
+EEE,2014B,415,F,North Western Region,A Level or Equivalent,80-90%,0-35,1,30,N,Withdrawn
+DDD,2014B,415,F,East Midlands Region,Lower Than A Level,60-70%,55<=,2,30,Y,Distinction
+AAA,2014B,416,M,Wales,A Level or Equivalent,90-100%,35-55,2,30,N,Pass
+EEE,2013J,416,F,North Region,Lower Than A Level,20-30%,35-55,0,150,N,Pass
+CCC,2014B,417,M,South West Region,A Level or Equivalent,90-100%,35-55,0,120,Y,Distinction
+AAA,2013J,418,M,West Midlands Region,A Level or Equivalent,80-90%,55<=,0,90,N,Withdrawn
+DDD,2013J,418,M,West Midlands Region,Lower Than A Level,60-70%,55<=,1,90,N,Pass
+BBB,2013J,419,M,North Western Region,HE Qualification,60-70%,55<=,1,120,N,Pass
+DDD,2013J,419,M,East Anglian Region,A Level or Equivalent,40-50%,35-55,2,150,Y,Pass
+EEE,2014B,420,F,South West Region,HE Qualification,90-100%,0-35,0,60,N,Fail
+CCC,2013J,421,F,South East Region,HE Qualification,60-70%,35-55,0,60,N,Pass
+AAA,2014B,421,F,South West Region,Post Graduate Qualification,20-30%,35-55,1,90,N,Pass
+BBB,2014B,422,M,South West Region,Lower Than A Level,80-90%,55<=,1,30,N,Fail
+CCC,2014B,422,M,North Region,Lower Than A Level,90-100%,55<=,1,30,N,Pass
+BBB,2013J,423,M,South Region,No Formal quals,0-10%,55<=,2,150,N,Distinction
+DDD,2014B,424,M,South West Region,A Level or Equivalent,20-30%,35-55,2,120,N,Withdrawn
+BBB,2014B,424,F,East Anglian Region,Lower Than A Level,10-20%,55<=,1,90,N,Withdrawn
+BBB,2013J,425,F,South East Region,A Level or Equivalent,80-90%,35-55,2,150,N,Pass
+CCC,2014B,425,M,North Region,Post Graduate Qualification,30-40%,0-35,0,90,Y,Withdrawn
+AAA,2013J,426,F,Wales,HE Qualification,40-50%,55<=,0,90,N,Pass
+CCC,2013J,426,M,South West Region,No Formal quals,20-30%,55<=,2,30,Y,Pass
+EEE,2014B,427,M,South Region,No Formal quals,40-50%,0-35,2,150,Y,Fail
+EEE,2013J,428,M,North Western Region,HE Qualification,0-10%,55<=,0,150,N,Fail
+CCC,2013J,428,M,North Western Region,Post Graduate Qualification,40-50%,35-55,1,150,Y,Distinction
+BBB,2014B,429,F,North Region,HE Qualification,70-80%,35-55,1,120,N,Withdrawn
+AAA,2013J,429,M,West Midlands Region,Post Graduate Qualification,80-90%,35-55,2,60,N,Pass
+BBB,2014B,430,F,East Midlands Region,A Level or Equivalent,70-80%,35-55,0,60,N,Pass
+EEE,2014B,430,M,North Western Region,A Level or Equivalent,10-20%,0-35,2,150,N,Pass
+BBB,2013J,431,M,South East Region,No Formal quals,30-40%,35-55,2,150,N,Pass
+DDD,2013J,432,F,North Region,HE Qualification,20-30%,55<=,1,90,N,Pass
+AAA,2013J,433,M,London Region,A Level or Equivalent,0-10%,55<=,2,60,N,Distinction
+CCC,2014B,434,F,East Anglian Region,HE Qualification,50-60%,55<=,0,60,Y,Fail
+EEE,2013J,435,M,East Anglian Region,No Formal quals,50-60%,0-35,1,150,N,Pass
+AAA,2014B,435,M,South East Region,Lower Than A Level,90-100%,0-35,1,120,Y,Pass
+DDD,2014B,436,F,Scotland,No Formal quals,90-100%,0-35,2,120,N,Pass
+BBB,2013J,437,M,East Anglian Region,Post Graduate Qualification,60-70%,55<=,2,90,N,Fail
+AAA,2014B,437,M,South East Region,Post Graduate Qualification,10-20%,55<=,1,60,N,Fail
+EEE,2014B,438,M,London Region,No Formal quals,10-20%,55<=,1,60,Y,Pass
+AAA,2014B,439,M,Wales,Post Graduate Qualification,60-70%,0-35,0,60,N,Distinction
+CCC,2013J,440,M,South Region,Post Graduate Qualification,70-80%,0-35,0,90,N,Fail
+AAA,2014B,440,M,West Midlands Region,Lower Than A Level,0-10%,0-35,2,60,N,Distinction
+CCC,2014B,441,M,South West Region,No Formal quals,0-10%,55<=,1,120,N,Pass
+BBB,2014B,441,F,North Region,Lower Than A Level,70-80%,35-55,2,60,Y,Distinction
+EEE,2013J,442,F,North Region,HE Qualification,10-20%,0-35,2,120,N,Distinction
+AAA,2013J,442,F,London Region,A Level or Equivalent,20-30%,0-35,1,120,N,Pass
+DDD,2014B,443,F,London Region,Post Graduate Qualification,40-50%,0-35,0,60,N,Pass
+CCC,2013J,443,F,East Midlands Region,No Formal quals,10-20%,55<=,2,120,N,Pass
+AAA,2014B,444,F,East Midlands Region,Post Graduate Qualification,40-50%,55<=,2,60,N,Pass
+BBB,2013J,445,M,South West Region,A Level or Equivalent,90-100%,55<=,1,30,N,Fail
+AAA,2014B,445,M,South East Region,HE Qualification,30-40%,35-55,0,90,N,Pass
+EEE,2013J,446,F,Wales,Lower Than A Level,0-10%,35-55,2,90,N,Pass
+AAA,2013J,447,M,West Midlands Region,Post Graduate Qualification,10-20%,0-35,2,60,N,Fail
+CCC,2014B,447,M,West Midlands Region,No Formal quals,50-60%,0-35,2,120,N,Fail
+DDD,2013J,448,F,West Midlands Region,No Formal quals,0-10%,35-55,0,60,N,Distinction
+BBB,2013J,448,F,South West Region,No Formal quals,50-60%,35-55,0,90,N,Distinction
+CCC,2014B,449,F,South West Region,Lower Than A Level,20-30%,0-35,1,150,N,Pass
+AAA,2014B,449,M,East Anglian Region,HE Qualification,30-40%,35-55,0,30,N,Pass
+DDD,2014B,450,F,West Midlands Region,Lower Than A Level,80-90%,0-35,0,120,N,Distinction
+BBB,2013J,451,F,South East Region,HE Qualification,0-10%,0-35,0,90,N,Pass
+CCC,2013J,451,F,South West Region,HE Qualification,70-80%,35-55,0,120,N,Fail
+AAA,2013J,452,M,West Midlands Region,HE Qualification,90-100%,0-35,2,120,Y,Distinction
+AAA,2013J,453,M,Scotland,No Formal quals,60-70%,55<=,0,120,N,Pass
+EEE,2013J,454,F,East Anglian Region,Post Graduate Qualification,90-100%,0-35,0,90,N,Fail
+CCC,2014B,455,M,London Region,HE Qualification,20-30%,55<=,2,90,N,Pass
+AAA,2013J,456,F,London Region,HE Qualification,0-10%,35-55,1,90,N,Pass
+DDD,2013J,457,F,South Region,HE Qualification,20-30%,35-55,1,150,N,Fail
+BBB,2013J,457,F,South West Region,HE Qualification,80-90%,55<=,1,120,N,Fail
+AAA,2013J,458,F,North Region,HE Qualification,40-50%,35-55,0,60,N,Fail
+CCC,2014B,459,M,South Region,No Formal quals,60-70%,0-35,1,90,N,Fail
+BBB,2014B,459,F,West Midlands Region,Lower Than A Level,30-40%,55<=,1,150,N,Withdrawn
+EEE,2014B,460,F,Scotland,A Level or Equivalent,0-10%,35-55,1,30,N,Pass
+BBB,2014B,460,F,East Anglian Region,Post Graduate Qualification,0-10%,55<=,1,90,N,Distinction
+DDD,2013J,461,F,South West Region,A Level or Equivalent,50-60%,35-55,2,30,N,Withdrawn
+AAA,2013J,461,M,West Midlands Region,Post Graduate Qualification,40-50%,55<=,2,60,N,Pass
+EEE,2014B,462,M,East Anglian Region,Post Graduate Qualification,90-100%,55<=,1,30,N,Pass
+EEE,2013J,463,M,South West Region,HE Qualification,60-70%,35-55,2,30,Y,Fail
+BBB,2014B,463,F,East Midlands Region,No Formal quals,60-70%,55<=,1,150,Y,Fail
+EEE,2013J,464,F,Scotland,HE Qualification,10-20%,55<=,2,150,N,Pass
+AAA,2013J,464,M,East Anglian Region,No Formal quals,20-30%,55<=,1,150,N,Pass
+DDD,2013J,465,M,North Region,Lower Than A Level,60-70%,35-55,2,120,N,Fail
+CCC,2013J,466,M,East Anglian Region,HE Qualification,20-30%,35-55,1,60,N,Pass
+CCC,2013J,467,F,East Midlands Region,Lower Than A Level,0-10%,55<=,1,150,N,Withdrawn
+CCC,2014B,468,M,South Region,Post Graduate Qualification,50-60%,0-35,0,150,N,Fail
+EEE,2014B,469,M,Wales,Post Graduate Qualification,70-80%,55<=,0,90,N,Fail
+AAA,2013J,470,M,East Anglian Region,No Formal quals,90-100%,0-35,2,30,N,Pass
+CCC,2013J,470,M,East Anglian Region,Lower Than A Level,0-10%,0-35,0,30,N,Pass
+EEE,2013J,471,F,North Region,Post Graduate Qualification,70-80%,55<=,2,90,N,Pass
+EEE,2013J,472,F,East Midlands Region,No Formal quals,90-100%,55<=,1,150,N,Fail
+CCC,2013J,472,F,South Region,A Level or Equivalent,50-60%,55<=,1,60,N,Pass
+CCC,2014B,473,F,West Midlands Region,HE Qualification,60-70%,0-35,0,60,N,Fail
+DDD,2013J,473,M,North Region,Lower Than A Level,70-80%,55<=,2,150,N,Withdrawn
+CCC,2013J,474,F,Scotland,Post Graduate Qualification,80-90%,35-55,1,90,N,Pass
+DDD,2014B,475,M,North Western Region,A Level or Equivalent,40-50%,0-35,2,150,N,Pass
+BBB,2014B,475,F,Scotland,HE Qualification,0-10%,35-55,0,90,Y,Distinction
+AAA,2014B,476,F,North Region,HE Qualification,0-10%,55<=,2,90,N,Fail
+EEE,2013J,477,F,South East Region,Lower Than A Level,90-100%,35-55,2,60,N,Pass
+CCC,2014B,477,F,North Western Region,HE Qualification,70-80%,0-35,1,60,N,Pass
+EEE,2014B,478,F,East Anglian Region,HE Qualification,80-90%,0-35,2,120,N,Pass
+EEE,2014B,479,F,London Region,HE Qualification,50-60%,55<=,1,150,N,Withdrawn
+DDD,2013J,480,F,South East Region,No Formal quals,0-10%,35-55,1,120,Y,Distinction
+BBB,2013J,481,F,London Region,A Level or Equivalent,0-10%,35-55,2,30,N,Withdrawn
+CCC,2013J,481,F,East Anglian Region,A Level or Equivalent,40-50%,0-35,2,90,N,Pass
+EEE,2013J,482,F,East Midlands Region,Lower Than A Level,80-90%,35-55,2,60,N,Pass
+BBB,2013J,482,M,North Western Region,Post Graduate Qualification,50-60%,0-35,2,60,N,Withdrawn
+BBB,2014B,483,F,South Region,No Formal quals,30-40%,35-55,1,120,N,Pass
+CCC,2014B,483,M,Scotland,A Level or Equivalent,90-100%,55<=,1,30,N,Pass
+CCC,2013J,484,F,East Anglian Region,A Level or Equivalent,60-70%,0-35,1,120,N,Pass
+EEE,2014B,484,M,East Anglian Region,Post Graduate Qualification,60-70%,0-35,2,30,N,Distinction
+EEE,2013J,485,F,East Anglian Region,HE Qualification,90-100%,0-35,0,90,N,Distinction
+DDD,2013J,486,M,South Region,Post Graduate Qualification,50-60%,35-55,0,90,N,Pass
+AAA,2014B,487,F,Scotland,A Level or Equivalent,10-20%,35-55,0,150,N,Withdrawn
+DDD,2013J,487,M,West Midlands Region,A Level or Equivalent,40-50%,35-55,2,90,N,Pass
+CCC,2014B,488,F,South East Region,HE Qualification,20-30%,55<=,1,120,N,Pass
+DDD,2014B,488,F,South West Region,HE Qualification,20-30%,0-35,2,30,N,Pass
+EEE,2013J,489,F,West Midlands Region,HE Qualification,20-30%,55<=,1,60,N,Pass
+BBB,2013J,489,M,Scotland,A Level or Equivalent,80-90%,0-35,2,30,Y,Fail
+EEE,2014B,490,F,North Region,A Level or Equivalent,40-50%,0-35,0,30,Y,Pass
+AAA,2014B,490,F,London Region,Post Graduate Qualification,0-10%,55<=,1,90,N,Withdrawn
+AAA,2013J,491,F,South East Region,A Level or Equivalent,90-100%,35-55,1,30,N,Pass
+EEE,2014B,491,F,North Western Region,Lower Than A Level,50-60%,0-35,0,90,N,Withdrawn
+AAA,2013J,492,M,London Region,Post Graduate Qualification,70-80%,55<=,1,120,N,Pass
+BBB,2014B,492,F,South Region,Lower Than A Level,80-90%,0-35,0,60,N,Distinction
+EEE,2013J,493,M,South East Region,Post Graduate Qualification,40-50%,35-55,1,150,N,Withdrawn
+AAA,2013J,493,F,South Region,HE Qualification,0-10%,35-55,1,150,N,Withdrawn
+DDD,2014B,494,M,South Region,Lower Than A Level,40-50%,0-35,2,90,N,Pass
+EEE,2014B,494,M,Scotland,Post Graduate Qualification,60-70%,35-55,1,30,N,Pass
+AAA,2014B,495,F,West Midlands Region,HE Qualification,50-60%,55<=,0,30,N,Distinction
+CCC,2013J,496,F,East Midlands Region,A Level or Equivalent,80-90%,55<=,0,150,N,Pass
+BBB,2013J,497,F,North Western Region,Post Graduate Qualification,10-20%,55<=,0,60,N,Pass
+CCC,2013J,497,M,London Region,HE Qualification,0-10%,0-35,2,90,N,Pass
+AAA,2013J,498,M,East Midlands Region,A Level or Equivalent,80-90%,55<=,1,60,N,Distinction
+BBB,2014B,499,F,East Anglian Region,Post Graduate Qualification,0-10%,35-55,2,90,N,Fail
+DDD,2013J,499,M,London Region,Post Graduate Qualification,30-40%,0-35,2,30,N,Pass
+AAA,2014B,500,F,Wales,Post Graduate Qualification,80-90%,0-35,0,90,N,Pass
+DDD,2013J,501,M,East Midlands Region,Lower Than A Level,70-80%,0-35,0,30,N,Pass
+BBB,2014B,501,F,Scotland,HE Qualification,10-20%,35-55,1,30,N,Pass
+DDD,2014B,502,M,South West Region,Lower Than A Level,70-80%,35-55,1,90,N,Pass
+EEE,2013J,503,F,East Anglian Region,Post Graduate Qualification,0-10%,0-35,1,30,Y,Pass
+AAA,2014B,503,M,Scotland,Post Graduate Qualification,20-30%,0-35,2,90,N,Distinction
+BBB,2013J,504,F,South East Region,No Formal quals,10-20%,55<=,1,30,N,Pass
+AAA,2014B,505,M,South West Region,A Level or Equivalent,80-90%,35-55,1,150,N,Fail
+EEE,2013J,505,M,Scotland,Lower Than A Level,40-50%,0-35,2,30,Y,Fail
+DDD,2013J,506,F,South East Region,HE Qualification,50-60%,0-35,0,60,N,Pass
+EEE,2013J,507,M,South West Region,HE Qualification,90-100%,55<=,2,30,N,Pass
+DDD,2014B,507,F,East Midlands Region,Lower Than A Level,70-80%,35-55,1,150,Y,Pass
+BBB,2014B,508,F,North Western Region,Lower Than A Level,50-60%,0-35,0,120,N,Pass
+BBB,2014B,509,M,Wales,Lower Than A Level,50-60%,35-55,1,150,N,Withdrawn
+AAA,2013J,509,M,London Region,A Level or Equivalent,20-30%,35-55,0,120,N,Pass
+CCC,2014B,510,M,London Region,No Formal quals,30-40%,35-55,0,90,N,Pass
+EEE,2013J,510,F,South East Region,Lower Than A Level,80-90%,35-55,1,30,N,Fail
+BBB,2013J,511,F,North Region,A Level or Equivalent,20-30%,55<=,1,60,Y,Withdrawn
+BBB,2013J,512,M,South Region,A Level or Equivalent,60-70%,35-55,0,150,N,Distinction
+BBB,2013J,513,F,South West Region,Lower Than A Level,80-90%,55<=,1,150,N,Pass
+DDD,2014B,513,F,West Midlands Region,No Formal quals,80-90%,35-55,0,60,N,Distinction
+EEE,2013J,514,F,East Midlands Region,Lower Than A Level,50-60%,55<=,1,60,N,Withdrawn
+EEE,2014B,515,F,London Region,A Level or Equivalent,0-10%,0-35,0,30,N,Withdrawn
+AAA,2013J,515,F,London Region,HE Qualification,30-40%,55<=,1,150,N,Pass
+CCC,2014B,516,F,North Region,No Formal quals,10-20%,35-55,2,60,N,Withdrawn
+EEE,2014B,516,F,South West Region,A Level or Equivalent,90-100%,35-55,0,150,Y,Fail
+CCC,2013J,517,M,East Anglian Region,No Formal quals,80-90%,35-55,0,30,N,Withdrawn
+CCC,2014B,518,F,East Midlands Region,HE Qualification,80-90%,0-35,1,60,N,Fail
+BBB,2013J,518,M,Scotland,A Level or Equivalent,80-90%,0-35,1,120,N,Fail
+EEE,2013J,519,F,South Region,HE Qualification,10-20%,0-35,1,60,N,Pass
+AAA,2013J,519,F,North Region,No Formal quals,50-60%,35-55,1,30,N,Withdrawn
+CCC,2013J,520,M,North Western Region,Lower Than A Level,50-60%,35-55,0,60,N,Distinction
+DDD,2013J,520,F,East Midlands Region,Lower Than A Level,20-30%,0-35,0,150,N,Distinction
+BBB,2013J,521,F,South Region,Post Graduate Qualification,50-60%,35-55,2,30,N,Pass
+BBB,2013J,522,F,East Anglian Region,Lower Than A Level,30-40%,0-35,1,30,N,Withdrawn
+AAA,2013J,523,F,East Anglian Region,Post Graduate Qualification,30-40%,55<=,0,60,N,Pass
+BBB,2014B,524,F,London Region,A Level or Equivalent,90-100%,55<=,1,60,N,Pass
+DDD,2013J,525,M,North Western Region,No Formal quals,50-60%,35-55,1,150,N,Fail
+EEE,2013J,525,M,East Anglian Region,Lower Than A Level,0-10%,35-55,2,150,N,Pass
+EEE,2013J,526,M,London Region,A Level or Equivalent,50-60%,55<=,0,30,Y,Fail
+BBB,2013J,526,F,North Region,No Formal quals,30-40%,55<=,2,60,N,Distinction
+EEE,2014B,527,M,Wales,Lower Than A Level,40-50%,35-55,2,120,N,Pass
+EEE,2014B,528,F,Wales,Post Graduate Qualification,20-30%,0-35,2,30,N,Distinction
+AAA,2014B,528,F,South West Region,A Level or Equivalent,0-10%,55<=,0,60,N,Distinction
+BBB,2013J,529,M,South Region,No Formal quals,90-100%,35-55,0,60,N,Pass
+DDD,2013J,530,M,London Region,No Formal quals,90-100%,0-35,1,90,N,Pass
+EEE,2013J,531,F,North Western Region,HE Qualification,50-60%,35-55,0,30,Y,Withdrawn
+CCC,2013J,532,M,North Region,HE Qualification,0-10%,0-35,0,30,N,Fail
+CCC,2013J,533,M,North Western Region,Lower Than A Level,10-20%,35-55,0,120,Y,Fail
+AAA,2013J,533,M,Scotland,HE Qualification,70-80%,0-35,2,150,N,Distinction
+DDD,2014B,534,F,West Midlands Region,No Formal quals,60-70%,0-35,0,30,N,Fail
+BBB,2014B,534,F,Scotland,No Formal quals,0-10%,0-35,0,60,N,Fail
+CCC,2014B,535,F,Wales,No Formal quals,60-70%,55<=,1,60,N,Pass
+DDD,2014B,536,M,South East Region,HE Qualification,90-100%,55<=,1,150,N,Pass
+CCC,2014B,536,M,Scotland,No Formal quals,20-30%,0-35,2,90,N,Pass
+CCC,2013J,537,M,East Midlands Region,HE Qualification,10-20%,55<=,1,120,N,Pass
+CCC,2014B,538,F,South Region,Lower Than A Level,60-70%,55<=,1,60,N,Withdrawn
+BBB,2013J,538,M,Wales,No Formal quals,80-90%,0-35,2,150,N,Pass
+BBB,2013J,539,M,London Region,HE Qualification,50-60%,35-55,1,90,N,Fail
+DDD,2013J,539,F,South Region,Lower Than A Level,30-40%,0-35,2,150,N,Fail
+BBB,2014B,540,F,Scotland,No Formal quals,0-10%,0-35,1,30,N,Fail
+DDD,2014B,541,M,West Midlands Region,Lower Than A Level,90-100%,0-35,1,150,N,Pass
+CCC,2014B,541,M,East Anglian Region,A Level or Equivalent,80-90%,55<=,2,30,N,Pass
+EEE,2013J,542,F,South Region,No Formal quals,0-10%,0-35,2,30,N,Fail
+BBB,2013J,543,F,Scotland,Post Graduate Qualification,80-90%,0-35,1,60,N,Pass
+EEE,2013J,543,M,West Midlands Region,A Level or Equivalent,20-30%,0-35,1,90,Y,Pass
+AAA,2014B,544,M,East Midlands Region,A Level or Equivalent,60-70%,0-35,0,30,N,Pass
+CCC,2013J,545,F,London Region,No Formal quals,70-80%,55<=,0,30,N,Distinction
+DDD,2013J,546,M,West Midlands Region,No Formal quals,40-50%,0-35,1,30,N,Distinction
+DDD,2013J,547,M,West Midlands Region,Lower Than A Level,10-20%,35-55,1,30,N,Distinction
+AAA,2013J,548,M,West Midlands Region,Lower Than A Level,60-70%,35-55,2,90,N,Pass
+DDD,2013J,549,M,South Region,Lower Than A Level,0-10%,0-35,2,90,N,Withdrawn
+BBB,2013J,550,F,London Region,Post Graduate Qualification,60-70%,55<=,2,120,N,Distinction
+CCC,2014B,551,F,North Region,A Level or Equivalent,40-50%,55<=,2,60,N,Fail
+EEE,2014B,552,F,North Region,No Formal quals,10-20%,35-55,2,90,N,Pass
+EEE,2014B,553,F,North Region,No Formal quals,40-50%,35-55,2,90,N,Distinction
+BBB,2014B,553,F,Wales,A Level or Equivalent,70-80%,55<=,1,30,N,Distinction
+CCC,2013J,554,F,East Midlands Region,Post Graduate Qualification,80-90%,55<=,1,30,N,Fail
+AAA,2014B,555,F,West Midlands Region,No Formal quals,60-70%,55<=,0,30,N,Pass
+BBB,2013J,556,F,North Region,No Formal quals,50-60%,0-35,0,150,N,Distinction
+EEE,2013J,556,M,South West Region,Lower Than A Level,90-100%,35-55,1,120,N,Distinction
+EEE,2013J,557,M,East Anglian Region,Lower Than A Level,20-30%,0-35,0,120,N,Withdrawn
+AAA,2013J,557,M,North Region,HE Qualification,60-70%,35-55,0,150,N,Pass
+DDD,2014B,558,F,Scotland,Post Graduate Qualification,20-30%,35-55,0,30,N,Pass
+BBB,2013J,558,F,Wales,Lower Than A Level,10-20%,0-35,2,150,Y,Fail
+DDD,2014B,559,F,Wales,Lower Than A Level,20-30%,55<=,0,120,N,Distinction
+EEE,2014B,559,F,Scotland,Post Graduate Qualification,50-60%,35-55,0,30,N,Withdrawn
+CCC,2014B,560,M,South East Region,No Formal quals,20-30%,55<=,1,150,N,Fail
+EEE,2014B,560,F,South West Region,No Formal quals,30-40%,0-35,1,60,N,Fail
+DDD,2014B,561,F,South West Region,No Formal quals,70-80%,0-35,2,90,N,Pass
+BBB,2014B,561,M,West Midlands Region,Post Graduate Qualification,80-90%,35-55,1,60,N,Pass
+EEE,2013J,562,F,North Western Region,HE Qualification,10-20%,55<=,1,150,N,Pass
+EEE,2014B,563,M,South East Region,HE Qualification,70-80%,55<=,2,150,N,Pass
+CCC,2013J,563,F,Wales,HE Qualification,80-90%,55<=,2,90,N,Pass
+CCC,2013J,564,M,South Region,Lower Than A Level,90-100%,0-35,2,90,N,Fail
+DDD,2014B,564,M,North Western Region,No Formal quals,70-80%,0-35,2,120,N,Withdrawn
+BBB,2013J,565,M,East Anglian Region,HE Qualification,90-100%,55<=,0,90,N,Distinction
+AAA,2013J,565,F,North Region,Post Graduate Qualification,60-70%,55<=,0,120,N,Distinction
+EEE,2013J,566,M,West Midlands Region,HE Qualification,60-70%,55<=,2,150,N,Pass
+DDD,2013J,567,M,East Anglian Region,Post Graduate Qualification,90-100%,55<=,2,150,N,Pass
+CCC,2014B,567,M,West Midlands Region,Lower Than A Level,50-60%,55<=,1,120,N,Pass
+EEE,2014B,568,M,Wales,No Formal quals,90-100%,55<=,1,150,N,Fail
+BBB,2014B,568,M,London Region,A Level or Equivalent,60-70%,0-35,0,30,N,Distinction
+BBB,2013J,569,F,South Region,A Level or Equivalent,20-30%,0-35,1,150,N,Fail
+AAA,2013J,570,F,Scotland,Lower Than A Level,20-30%,55<=,0,60,N,Fail
+EEE,2014B,571,M,South West Region,Post Graduate Qualification,30-40%,0-35,1,90,Y,Fail
+BBB,2013J,571,M,South Region,Lower Than A Level,50-60%,55<=,1,60,N,Pass
+EEE,2013J,572,F,North Western Region,A Level or Equivalent,40-50%,0-35,0,90,N,Fail
+BBB,2013J,573,F,North Western Region,A Level or Equivalent,70-80%,55<=,1,60,N,Distinction
+CCC,2013J,573,F,South East Region,A Level or Equivalent,90-100%,55<=,2,120,N,Fail
+DDD,2013J,574,M,East Midlands Region,HE Qualification,0-10%,55<=,1,120,N,Pass
+CCC,2013J,575,M,Wales,HE Qualification,10-20%,55<=,2,30,N,Pass
+DDD,2014B,576,F,South West Region,HE Qualification,50-60%,35-55,1,120,N,Pass
+BBB,2014B,577,M,Scotland,Post Graduate Qualification,80-90%,55<=,0,60,N,Pass
+CCC,2014B,578,M,West Midlands Region,No Formal quals,20-30%,35-55,0,120,N,Pass
+CCC,2014B,579,M,South Region,Post Graduate Qualification,60-70%,35-55,2,30,N,Fail
+AAA,2014B,580,M,South East Region,HE Qualification,50-60%,55<=,1,30,N,Pass
+EEE,2013J,581,M,East Midlands Region,Post Graduate Qualification,80-90%,55<=,1,150,N,Fail
+EEE,2014B,582,F,Wales,No Formal quals,30-40%,35-55,0,90,N,Withdrawn
+DDD,2014B,582,M,South East Region,A Level or Equivalent,90-100%,0-35,2,60,N,Withdrawn
+BBB,2013J,583,M,London Region,Lower Than A Level,10-20%,0-35,2,90,N,Fail
+AAA,2014B,583,F,London Region,Lower Than A Level,40-50%,55<=,1,30,N,Pass
+DDD,2013J,584,M,South Region,Post Graduate Qualification,10-20%,35-55,2,120,N,Withdrawn
+DDD,2013J,585,M,South West Region,HE Qualification,20-30%,0-35,0,60,N,Distinction
+CCC,2014B,586,F,North Region,HE Qualification,10-20%,0-35,1,60,N,Pass
+DDD,2014B,587,M,North Western Region,HE Qualification,10-20%,0-35,0,60,N,Pass
+BBB,2014B,587,M,East Midlands Region,A Level or Equivalent,60-70%,35-55,2,150,N,Fail
+AAA,2013J,588,F,Wales,A Level or Equivalent,90-100%,0-35,1,60,Y,Withdrawn
+EEE,2013J,588,F,North Western Region,HE Qualification,90-100%,55<=,2,90,N,Pass
+CCC,2014B,589,F,Wales,Lower Than A Level,40-50%,35-55,1,60,Y,Pass
+DDD,2013J,590,M,North Western Region,No Formal quals,40-50%,0-35,2,90,N,Withdrawn
+CCC,2014B,590,F,Scotland,A Level or Equivalent,30-40%,0-35,1,30,N,Fail
+CCC,2013J,591,F,North Western Region,A Level or Equivalent,60-70%,0-35,0,120,N,Distinction
+AAA,2013J,591,M,South East Region,No Formal quals,80-90%,35-55,2,30,N,Distinction
+BBB,2014B,592,F,North Western Region,Lower Than A Level,90-100%,35-55,0,120,N,Withdrawn
+BBB,2013J,593,F,South East Region,Lower Than A Level,70-80%,35-55,1,60,N,Fail
+CCC,2013J,593,F,North Region,No Formal quals,0-10%,35-55,1,90,N,Pass
+AAA,2013J,594,F,Scotland,Lower Than A Level,90-100%,55<=,2,30,N,Withdrawn
+EEE,2014B,595,F,East Midlands Region,No Formal quals,40-50%,55<=,0,120,N,Withdrawn
+DDD,2014B,596,F,South Region,Lower Than A Level,0-10%,35-55,0,30,N,Pass
+AAA,2013J,597,M,North Region,Post Graduate Qualification,70-80%,55<=,1,120,N,Withdrawn
+CCC,2014B,598,F,North Western Region,Lower Than A Level,80-90%,0-35,0,90,N,Fail
+DDD,2013J,598,F,South Region,No Formal quals,40-50%,35-55,1,30,N,Fail
+EEE,2013J,599,F,East Midlands Region,A Level or Equivalent,20-30%,35-55,1,60,N,Pass
+BBB,2013J,599,M,West Midlands Region,Lower Than A Level,10-20%,0-35,0,90,Y,Fail
+EEE,2014B,600,M,South West Region,No Formal quals,50-60%,55<=,2,120,N,Distinction
+BBB,2013J,601,F,South East Region,No Formal quals,90-100%,35-55,2,150,N,Distinction
+DDD,2013J,601,F,South West Region,Post Graduate Qualification,50-60%,55<=,0,120,N,Pass
+AAA,2013J,602,F,West Midlands Region,Lower Than A Level,80-90%,55<=,0,120,N,Pass
+DDD,2013J,603,M,East Anglian Region,No Formal quals,50-60%,55<=,0,30,N,Withdrawn
+BBB,2014B,604,M,London Region,No Formal quals,80-90%,0-35,1,150,N,Pass
+AAA,2014B,604,F,East Anglian Region,A Level or Equivalent,60-70%,55<=,0,90,N,Withdrawn
+EEE,2013J,605,F,West Midlands Region,No Formal quals,60-70%,0-35,2,30,N,Fail
+DDD,2013J,605,F,Wales,Lower Than A Level,20-30%,35-55,2,30,Y,Distinction
+BBB,2014B,606,F,North Region,HE Qualification,90-100%,0-35,2,150,Y,Pass
+AAA,2013J,606,F,South Region,No Formal quals,40-50%,55<=,0,30,N,Pass
+CCC,2013J,607,M,London Region,HE Qualification,30-40%,35-55,0,30,N,Pass
+BBB,2014B,607,M,North Region,A Level or Equivalent,50-60%,0-35,2,90,N,Distinction
+BBB,2014B,608,M,West Midlands Region,A Level or Equivalent,60-70%,0-35,0,30,N,Pass
+CCC,2013J,608,M,North Western Region,Post Graduate Qualification,60-70%,0-35,0,60,N,Fail
+BBB,2014B,609,M,South West Region,No Formal quals,20-30%,0-35,2,30,N,Pass
+CCC,2014B,610,F,East Anglian Region,Post Graduate Qualification,40-50%,35-55,1,90,N,Pass
+DDD,2014B,610,F,South West Region,Post Graduate Qualification,0-10%,0-35,2,60,N,Distinction
+BBB,2013J,611,M,South Region,HE Qualification,40-50%,0-35,2,90,N,Withdrawn
+BBB,2014B,612,F,East Midlands Region,Post Graduate Qualification,10-20%,35-55,2,60,Y,Fail
+CCC,2014B,613,F,Scotland,Lower Than A Level,20-30%,0-35,2,30,N,Distinction
+BBB,2014B,613,M,East Midlands Region,No Formal quals,20-30%,55<=,2,120,N,Fail
+BBB,2013J,614,M,North Region,HE Qualification,20-30%,55<=,1,150,N,Withdrawn
+CCC,2013J,615,M,West Midlands Region,HE Qualification,90-100%,0-35,2,150,N,Pass
+EEE,2013J,615,F,West Midlands Region,Post Graduate Qualification,90-100%,55<=,0,150,N,Fail
+EEE,2014B,616,F,Scotland,No Formal quals,80-90%,35-55,2,90,N,Pass
+BBB,2013J,616,M,North Region,No Formal quals,20-30%,55<=,2,90,N,Fail
+DDD,2013J,617,F,East Midlands Region,HE Qualification,0-10%,35-55,0,30,N,Pass
+AAA,2014B,618,F,Scotland,A Level or Equivalent,80-90%,0-35,2,60,N,Withdrawn
+DDD,2013J,619,F,North Western Region,A Level or Equivalent,20-30%,35-55,0,60,N,Withdrawn
+EEE,2013J,620,M,South East Region,Lower Than A Level,0-10%,55<=,0,120,N,Withdrawn
+AAA,2014B,620,M,East Anglian Region,A Level or Equivalent,20-30%,35-55,1,150,N,Pass
+CCC,2014B,621,F,North Region,HE Qualification,90-100%,55<=,2,120,N,Pass
+EEE,2013J,621,F,East Midlands Region,A Level or Equivalent,50-60%,35-55,0,30,N,Pass
+EEE,2014B,622,F,Scotland,A Level or Equivalent,40-50%,55<=,1,90,N,Pass
+CCC,2013J,623,F,Wales,A Level or Equivalent,0-10%,35-55,2,30,N,Pass
+BBB,2014B,624,F,West Midlands Region,Post Graduate Qualification,70-80%,0-35,2,120,N,Distinction
+EEE,2013J,624,M,North Western Region,A Level or Equivalent,20-30%,0-35,2,150,N,Distinction
+CCC,2014B,625,F,London Region,A Level or Equivalent,20-30%,35-55,2,30,N,Fail
+EEE,2014B,625,M,East Midlands Region,Post Graduate Qualification,90-100%,55<=,1,150,N,Distinction
+BBB,2013J,626,M,London Region,Post Graduate Qualification,60-70%,35-55,0,60,N,Pass
+DDD,2014B,626,F,South East Region,Post Graduate Qualification,30-40%,35-55,0,150,N,Pass
+DDD,2013J,627,M,South East Region,No Formal quals,0-10%,35-55,1,120,N,Distinction
+CCC,2013J,628,M,West Midlands Region,Post Graduate Qualification,60-70%,35-55,1,120,N,Fail
+DDD,2014B,628,F,South West Region,Lower Than A Level,0-10%,0-35,0,120,N,Pass
+AAA,2014B,629,F,West Midlands Region,A Level or Equivalent,50-60%,0-35,0,90,N,Fail
+EEE,2014B,630,M,Wales,No Formal quals,0-10%,0-35,0,60,N,Distinction
+DDD,2014B,630,F,South Region,A Level or Equivalent,40-50%,55<=,1,60,N,Fail
+CCC,2013J,631,M,East Midlands Region,Post Graduate Qualification,70-80%,55<=,0,90,N,Distinction
+DDD,2014B,631,M,London Region,A Level or Equivalent,90-100%,35-55,1,120,Y,Fail
+BBB,2013J,632,F,North Western Region,No Formal quals,10-20%,0-35,2,90,N,Pass
+EEE,2013J,633,F,East Anglian Region,No Formal quals,90-100%,0-35,0,30,N,Fail
+EEE,2014B,634,F,South Region,A Level or Equivalent,70-80%,55<=,0,30,Y,Withdrawn
+BBB,2013J,634,M,East Midlands Region,A Level or Equivalent,30-40%,35-55,2,90,N,Fail
+EEE,2014B,635,M,West Midlands Region,A Level or Equivalent,70-80%,35-55,2,30,N,Fail
+CCC,2013J,635,M,North Western Region,Post Graduate Qualification,80-90%,55<=,2,150,N,Pass
+EEE,2014B,636,M,South West Region,Post Graduate Qualification,30-40%,55<=,1,60,N,Distinction
+EEE,2014B,637,M,North Western Region,No Formal quals,60-70%,55<=,1,150,N,Pass
+CCC,2013J,638,F,Scotland,No Formal quals,30-40%,35-55,1,150,N,Pass
+EEE,2014B,638,F,London Region,HE Qualification,90-100%,0-35,0,30,N,Pass
+DDD,2013J,639,M,East Anglian Region,No Formal quals,30-40%,0-35,0,120,N,Fail
+BBB,2013J,640,F,South East Region,Lower Than A Level,20-30%,35-55,0,30,N,Fail
+AAA,2014B,641,M,Wales,No Formal quals,0-10%,0-35,1,150,Y,Pass
+BBB,2013J,641,M,Scotland,HE Qualification,0-10%,0-35,0,90,N,Fail
+BBB,2013J,642,M,London Region,Lower Than A Level,50-60%,0-35,1,90,N,Pass
+DDD,2013J,642,F,South West Region,Post Graduate Qualification,30-40%,55<=,1,90,N,Pass
+AAA,2014B,643,F,North Region,Lower Than A Level,80-90%,0-35,1,150,N,Pass
+DDD,2014B,643,M,South East Region,HE Qualification,70-80%,0-35,1,60,N,Pass
+DDD,2014B,644,F,Scotland,A Level or Equivalent,60-70%,55<=,1,30,N,Withdrawn
+BBB,2014B,645,F,West Midlands Region,A Level or Equivalent,50-60%,0-35,2,90,N,Withdrawn
+DDD,2013J,646,F,West Midlands Region,A Level or Equivalent,60-70%,55<=,2,30,N,Pass
+DDD,2013J,647,F,Wales,HE Qualification,50-60%,0-35,2,150,N,Distinction
+AAA,2013J,647,F,South East Region,No Formal quals,80-90%,0-35,2,120,N,Pass
+DDD,2014B,648,F,Scotland,HE Qualification,0-10%,35-55,0,30,N,Withdrawn
+BBB,2014B,649,M,London Region,Post Graduate Qualification,20-30%,55<=,2,120,N,Pass
+DDD,2013J,650,F,London Region,A Level or Equivalent,90-100%,55<=,0,30,N,Fail
+BBB,2014B,650,F,South East Region,Post Graduate Qualification,0-10%,55<=,1,60,N,Pass
+AAA,2013J,651,F,Scotland,No Formal quals,70-80%,35-55,2,30,Y,Fail
+CCC,2013J,651,M,South East Region,Post Graduate Qualification,10-20%,35-55,0,120,N,Distinction
+CCC,2013J,652,F,East Midlands Region,A Level or Equivalent,20-30%,35-55,0,120,N,Pass
+BBB,2013J,652,M,West Midlands Region,HE Qualification,40-50%,55<=,1,150,Y,Fail
+BBB,2014B,653,M,North Western Region,No Formal quals,20-30%,0-35,0,30,N,Fail
+DDD,2013J,654,M,East Anglian Region,HE Qualification,30-40%,55<=,1,120,N,Pass
+EEE,2014B,654,F,South Region,Lower Than A Level,0-10%,35-55,2,120,N,Pass
+DDD,2013J,655,F,North Region,Lower Than A Level,20-30%,35-55,0,60,N,Distinction
+AAA,2014B,656,F,North Western Region,Lower Than A Level,50-60%,35-55,0,120,Y,Pass
+CCC,2013J,657,M,London Region,Post Graduate Qualification,80-90%,0-35,1,90,N,Withdrawn
+AAA,2014B,658,F,London Region,Post Graduate Qualification,40-50%,35-55,0,90,N,Distinction
+DDD,2014B,658,F,Wales,No Formal quals,80-90%,55<=,2,120,N,Fail
+EEE,2013J,659,F,North Region,Post Graduate Qualification,60-70%,0-35,2,90,N,Fail
+AAA,2014B,659,M,North Western Region,Lower Than A Level,40-50%,0-35,1,60,N,Pass
+CCC,2014B,660,F,West Midlands Region,HE Qualification,30-40%,35-55,0,120,N,Fail
+CCC,2014B,661,F,West Midlands Region,A Level or Equivalent,30-40%,35-55,0,150,N,Pass
+CCC,2014B,662,M,South Region,HE Qualification,30-40%,0-35,2,150,N,Pass
+CCC,2013J,663,M,South Region,No Formal quals,50-60%,55<=,0,30,N,Fail
+BBB,2013J,664,F,Scotland,Lower Than A Level,50-60%,35-55,0,60,N,Distinction
+AAA,2014B,665,F,East Anglian Region,Lower Than A Level,80-90%,0-35,0,150,N,Withdrawn
+DDD,2014B,665,F,London Region,Post Graduate Qualification,70-80%,0-35,2,30,N,Pass
+BBB,2013J,666,F,North Western Region,Lower Than A Level,90-100%,55<=,2,30,N,Fail
+DDD,2013J,666,F,London Region,Post Graduate Qualification,50-60%,35-55,0,60,N,Fail
+AAA,2013J,667,F,Wales,A Level or Equivalent,60-70%,35-55,2,150,N,Pass
+BBB,2014B,667,M,North Western Region,Lower Than A Level,10-20%,0-35,2,30,N,Withdrawn
+DDD,2014B,668,M,West Midlands Region,Lower Than A Level,90-100%,35-55,2,150,N,Withdrawn
+DDD,2013J,669,F,London Region,HE Qualification,30-40%,55<=,2,60,N,Fail
+DDD,2014B,670,F,East Anglian Region,No Formal quals,30-40%,0-35,2,120,N,Fail
+DDD,2014B,671,M,North Western Region,A Level or Equivalent,50-60%,35-55,0,150,N,Fail
+CCC,2013J,672,F,London Region,No Formal quals,90-100%,35-55,0,60,N,Pass
+DDD,2013J,672,M,North Region,HE Qualification,50-60%,0-35,1,60,N,Distinction
+EEE,2013J,673,F,South East Region,A Level or Equivalent,40-50%,35-55,0,120,N,Pass
+BBB,2014B,673,M,West Midlands Region,Post Graduate Qualification,90-100%,0-35,2,150,N,Withdrawn
+CCC,2013J,674,F,South Region,A Level or Equivalent,30-40%,0-35,0,90,N,Pass
+DDD,2013J,674,M,North Region,No Formal quals,70-80%,35-55,0,120,N,Fail
+EEE,2013J,675,F,North Western Region,Post Graduate Qualification,90-100%,0-35,0,90,N,Distinction
+BBB,2014B,675,M,South Region,No Formal quals,70-80%,55<=,2,150,N,Fail
+DDD,2014B,676,M,South West Region,No Formal quals,70-80%,0-35,2,60,N,Withdrawn
+BBB,2013J,676,M,North Region,A Level or Equivalent,0-10%,35-55,2,150,Y,Withdrawn
+EEE,2013J,677,M,South Region,A Level or Equivalent,10-20%,0-35,1,120,N,Fail
+DDD,2013J,677,F,London Region,No Formal quals,90-100%,0-35,1,150,N,Fail
+BBB,2013J,678,F,East Anglian Region,Lower Than A Level,80-90%,35-55,2,30,Y,Pass
+CCC,2013J,678,F,South West Region,Post Graduate Qualification,10-20%,55<=,0,60,N,Withdrawn
+EEE,2014B,679,F,Scotland,No Formal quals,0-10%,35-55,1,60,N,Pass
+BBB,2014B,680,M,London Region,Post Graduate Qualification,90-100%,0-35,1,60,N,Pass
+EEE,2014B,681,M,North Region,A Level or Equivalent,10-20%,55<=,0,60,N,Withdrawn
+BBB,2013J,682,F,South East Region,Post Graduate Qualification,70-80%,55<=,1,120,N,Fail
+DDD,2014B,682,F,West Midlands Region,A Level or Equivalent,0-10%,35-55,0,60,Y,Distinction
+CCC,2013J,683,F,North Region,A Level or Equivalent,60-70%,0-35,0,150,N,Distinction
+AAA,2013J,684,M,West Midlands Region,No Formal quals,60-70%,55<=,2,30,N,Fail
+DDD,2014B,684,F,South East Region,HE Qualification,70-80%,55<=,0,90,N,Fail
+AAA,2014B,685,M,London Region,Post Graduate Qualification,70-80%,55<=,0,60,N,Fail
+EEE,2014B,686,M,South East Region,Lower Than A Level,70-80%,35-55,2,30,N,Distinction
+DDD,2013J,687,M,South West Region,No Formal quals,40-50%,0-35,2,30,N,Pass
+CCC,2014B,688,M,South West Region,A Level or Equivalent,20-30%,35-55,1,150,N,Withdrawn
+AAA,2013J,688,M,West Midlands Region,HE Qualification,90-100%,0-35,2,30,N,Fail
+BBB,2014B,689,F,Wales,Post Graduate Qualification,70-80%,35-55,2,120,Y,Pass
+CCC,2014B,690,F,North Western Region,A Level or Equivalent,90-100%,35-55,1,90,Y,Pass
+BBB,2013J,690,F,North Western Region,No Formal quals,10-20%,35-55,0,60,N,Pass
+DDD,2013J,691,M,South West Region,No Formal quals,30-40%,55<=,2,150,N,Withdrawn
+BBB,2014B,691,M,South East Region,No Formal quals,10-20%,35-55,0,30,N,Pass
+CCC,2013J,692,F,South West Region,Post Graduate Qualification,80-90%,55<=,1,150,N,Fail
+CCC,2014B,693,F,South Region,Post Graduate Qualification,20-30%,55<=,1,150,N,Fail
+BBB,2013J,694,F,West Midlands Region,Post Graduate Qualification,80-90%,0-35,2,60,N,Fail
+DDD,2013J,695,F,South Region,A Level or Equivalent,20-30%,35-55,2,120,N,Pass
+BBB,2013J,696,M,London Region,HE Qualification,60-70%,0-35,2,60,N,Fail
+CCC,2014B,696,F,Wales,Post Graduate Qualification,60-70%,55<=,1,30,N,Pass
+AAA,2014B,697,F,South West Region,Post Graduate Qualification,40-50%,55<=,0,150,N,Fail
+EEE,2013J,698,F,Wales,Lower Than A Level,70-80%,0-35,0,30,N,Pass
+DDD,2014B,699,F,East Anglian Region,Post Graduate Qualification,80-90%,0-35,2,90,N,Fail
+CCC,2014B,699,F,South Region,A Level or Equivalent,80-90%,0-35,1,90,N,Fail
+DDD,2014B,700,F,Scotland,Lower Than A Level,90-100%,0-35,2,120,Y,Pass
+EEE,2014B,700,F,South East Region,No Formal quals,50-60%,55<=,2,150,N,Pass
+CCC,2014B,701,F,South West Region,Post Graduate Qualification,0-10%,0-35,1,150,Y,Pass
+BBB,2014B,701,M,East Midlands Region,Lower Than A Level,90-100%,35-55,1,150,N,Fail
+BBB,2013J,702,F,South West Region,HE Qualification,50-60%,35-55,0,120,N,Withdrawn
+AAA,2013J,703,M,South West Region,No Formal quals,40-50%,0-35,0,30,N,Withdrawn
+CCC,2013J,703,M,Wales,No Formal quals,70-80%,55<=,0,150,N,Pass
+EEE,2014B,704,F,South West Region,HE Qualification,90-100%,55<=,0,60,N,Fail
+DDD,2014B,704,M,North Region,No Formal quals,70-80%,55<=,0,60,N,Pass
+AAA,2014B,705,M,Scotland,Post Graduate Qualification,90-100%,0-35,0,60,N,Distinction
+CCC,2014B,705,M,North Western Region,Post Graduate Qualification,40-50%,35-55,0,90,N,Distinction
+BBB,2014B,706,F,West Midlands Region,Lower Than A Level,80-90%,35-55,1,120,N,Distinction
+AAA,2014B,706,F,Wales,HE Qualification,70-80%,0-35,0,30,N,Distinction
+EEE,2014B,707,M,South Region,Post Graduate Qualification,0-10%,0-35,2,60,Y,Pass
+DDD,2013J,707,F,East Midlands Region,No Formal quals,60-70%,0-35,1,30,N,Distinction
+EEE,2013J,708,F,North Region,A Level or Equivalent,10-20%,35-55,0,60,N,Pass
+BBB,2014B,708,F,West Midlands Region,Post Graduate Qualification,90-100%,35-55,0,150,N,Withdrawn
+EEE,2014B,709,F,North Region,Post Graduate Qualification,40-50%,0-35,1,60,N,Distinction
+DDD,2013J,709,F,London Region,Lower Than A Level,10-20%,55<=,2,30,N,Pass
+CCC,2013J,710,M,North Western Region,Post Graduate Qualification,70-80%,55<=,1,30,N,Pass
+DDD,2014B,711,M,North Region,Post Graduate Qualification,0-10%,0-35,1,30,N,Pass
+EEE,2014B,711,M,South West Region,Post Graduate Qualification,10-20%,0-35,1,90,N,Withdrawn
+BBB,2014B,712,F,East Anglian Region,Lower Than A Level,10-20%,55<=,2,90,N,Pass
+AAA,2014B,713,M,West Midlands Region,Post Graduate Qualification,70-80%,55<=,1,90,N,Withdrawn
+AAA,2014B,714,M,East Anglian Region,Lower Than A Level,10-20%,0-35,0,60,N,Withdrawn
+CCC,2014B,715,M,East Anglian Region,Post Graduate Qualification,0-10%,55<=,1,60,N,Pass
+AAA,2013J,716,F,East Midlands Region,No Formal quals,30-40%,55<=,0,150,N,Distinction
+BBB,2014B,716,M,North Region,A Level or Equivalent,20-30%,0-35,0,30,N,Distinction
+BBB,2014B,717,F,South Region,No Formal quals,30-40%,35-55,2,90,N,Pass
+DDD,2014B,717,F,South Region,Lower Than A Level,60-70%,55<=,1,90,N,Pass
+CCC,2013J,718,F,North Region,HE Qualification,10-20%,55<=,1,30,N,Pass
+EEE,2014B,718,F,East Midlands Region,Lower Than A Level,30-40%,0-35,2,60,N,Pass
+EEE,2014B,719,M,South West Region,HE Qualification,50-60%,35-55,2,120,N,Fail
+DDD,2014B,719,M,East Anglian Region,No Formal quals,20-30%,35-55,2,90,N,Pass
+CCC,2014B,720,M,West Midlands Region,Post Graduate Qualification,10-20%,0-35,2,90,Y,Fail
+CCC,2014B,721,F,South West Region,A Level or Equivalent,70-80%,0-35,2,120,N,Pass
+AAA,2013J,721,F,West Midlands Region,Post Graduate Qualification,70-80%,55<=,2,60,N,Withdrawn
+CCC,2014B,722,F,Scotland,Lower Than A Level,70-80%,0-35,0,60,N,Pass
+CCC,2014B,723,F,North Western Region,HE Qualification,80-90%,0-35,2,120,N,Fail
+BBB,2013J,723,F,North Region,Lower Than A Level,70-80%,55<=,0,120,N,Pass
+DDD,2013J,724,M,North Region,Lower Than A Level,40-50%,55<=,1,60,N,Pass
+EEE,2014B,724,M,South West Region,A Level or Equivalent,0-10%,55<=,1,120,N,Distinction
+CCC,2013J,725,F,East Anglian Region,Post Graduate Qualification,10-20%,0-35,2,120,N,Fail
+BBB,2013J,725,M,North Western Region,A Level or Equivalent,20-30%,55<=,2,120,N,Pass
+EEE,2013J,726,M,West Midlands Region,No Formal quals,40-50%,55<=,0,60,N,Withdrawn
+BBB,2013J,726,F,Wales,Post Graduate Qualification,0-10%,0-35,1,60,N,Withdrawn
+CCC,2013J,727,M,Scotland,No Formal quals,0-10%,0-35,0,90,N,Pass
+BBB,2014B,728,F,East Anglian Region,HE Qualification,60-70%,35-55,0,120,N,Fail
+AAA,2013J,728,M,East Midlands Region,Post Graduate Qualification,90-100%,0-35,2,150,N,Withdrawn
+CCC,2014B,729,F,East Midlands Region,A Level or Equivalent,60-70%,35-55,1,90,N,Pass
+BBB,2014B,730,F,North Western Region,Post Graduate Qualification,40-50%,0-35,1,60,N,Fail
+DDD,2013J,731,M,London Region,Post Graduate Qualification,90-100%,55<=,0,60,N,Fail
+DDD,2013J,732,F,South Region,HE Qualification,0-10%,0-35,0,120,N,Distinction
+AAA,2013J,732,M,North Region,Lower Than A Level,50-60%,35-55,0,90,N,Pass
+BBB,2014B,733,F,South East Region,A Level or Equivalent,80-90%,35-55,2,120,Y,Fail
+AAA,2014B,733,F,Scotland,HE Qualification,0-10%,0-35,0,150,N,Pass
+BBB,2013J,734,M,North Region,No Formal quals,0-10%,35-55,1,30,N,Withdrawn
+EEE,2014B,734,F,East Anglian Region,HE Qualification,30-40%,0-35,1,120,N,Distinction
+BBB,2014B,735,F,North Region,Post Graduate Qualification,30-40%,55<=,1,60,N,Distinction
+AAA,2014B,735,F,East Anglian Region,A Level or Equivalent,70-80%,35-55,1,60,N,Pass
+EEE,2013J,736,M,Wales,A Level or Equivalent,70-80%,35-55,1,120,N,Pass
+DDD,2013J,736,M,North Western Region,HE Qualification,0-10%,35-55,1,60,N,Pass
+BBB,2014B,737,M,North Western Region,Lower Than A Level,20-30%,35-55,1,150,N,Fail
+EEE,2014B,737,M,North Western Region,A Level or Equivalent,50-60%,0-35,2,150,Y,Fail
+BBB,2013J,738,M,Wales,A Level or Equivalent,40-50%,35-55,1,90,N,Fail
+CCC,2013J,739,M,East Anglian Region,A Level or Equivalent,10-20%,55<=,1,90,N,Pass
+DDD,2013J,739,M,South Region,No Formal quals,0-10%,0-35,1,120,Y,Pass
+DDD,2014B,740,F,Wales,HE Qualification,50-60%,0-35,2,90,N,Pass
+EEE,2013J,741,F,London Region,No Formal quals,10-20%,35-55,1,90,N,Pass
+BBB,2013J,741,M,South East Region,Lower Than A Level,50-60%,35-55,1,90,N,Fail
+DDD,2014B,742,F,South West Region,Lower Than A Level,60-70%,0-35,1,60,N,Pass
+BBB,2013J,742,F,East Midlands Region,No Formal quals,80-90%,55<=,0,150,N,Withdrawn
+AAA,2013J,743,F,South West Region,Lower Than A Level,10-20%,35-55,1,30,N,Fail
+DDD,2013J,744,M,South Region,HE Qualification,20-30%,0-35,2,150,N,Distinction
+AAA,2014B,745,F,South East Region,No Formal quals,90-100%,35-55,1,90,Y,Pass
+DDD,2014B,746,F,Scotland,No Formal quals,50-60%,55<=,2,30,N,Distinction
+BBB,2014B,747,M,Wales,HE Qualification,90-100%,0-35,2,150,N,Fail
+CCC,2014B,748,F,South East Region,Post Graduate Qualification,70-80%,55<=,1,90,N,Pass
+AAA,2014B,749,M,Wales,No Formal quals,50-60%,0-35,1,60,Y,Pass
+EEE,2014B,749,M,East Anglian Region,HE Qualification,20-30%,35-55,0,150,N,Fail
+BBB,2014B,750,M,Wales,HE Qualification,50-60%,55<=,0,120,N,Distinction
+CCC,2013J,750,M,South Region,Post Graduate Qualification,60-70%,55<=,1,60,Y,Pass
+BBB,2014B,751,M,North Region,No Formal quals,80-90%,0-35,0,150,N,Pass
+AAA,2014B,751,F,London Region,A Level or Equivalent,70-80%,0-35,1,90,N,Withdrawn
+EEE,2013J,752,F,East Midlands Region,A Level or Equivalent,0-10%,0-35,0,60,N,Pass
+BBB,2013J,752,F,South West Region,Post Graduate Qualification,20-30%,0-35,2,60,N,Withdrawn
+AAA,2014B,753,F,South East Region,A Level or Equivalent,80-90%,35-55,0,150,N,Withdrawn
+AAA,2013J,754,F,South West Region,No Formal quals,20-30%,55<=,0,150,N,Fail
+CCC,2013J,755,F,South West Region,A Level or Equivalent,70-80%,55<=,2,60,N,Fail
+CCC,2014B,756,M,Wales,No Formal quals,10-20%,0-35,0,90,N,Fail
+AAA,2013J,756,M,Scotland,No Formal quals,0-10%,0-35,1,120,N,Fail
+EEE,2013J,757,M,Scotland,Lower Than A Level,90-100%,55<=,0,120,N,Withdrawn
+DDD,2014B,757,M,South East Region,A Level or Equivalent,90-100%,35-55,1,60,Y,Withdrawn
+BBB,2014B,758,F,West Midlands Region,HE Qualification,50-60%,55<=,2,30,N,Pass
+DDD,2014B,758,M,London Region,Post Graduate Qualification,20-30%,55<=,2,30,Y,Pass
+DDD,2014B,759,F,East Anglian Region,No Formal quals,10-20%,35-55,1,60,N,Pass
+CCC,2013J,759,M,Wales,Post Graduate Qualification,60-70%,35-55,0,120,N,Pass
+EEE,2014B,760,M,North Western Region,A Level or Equivalent,20-30%,0-35,1,90,N,Distinction
+AAA,2014B,761,M,South Region,Post Graduate Qualification,10-20%,35-55,1,30,Y,Withdrawn
+EEE,2014B,762,M,West Midlands Region,HE Qualification,0-10%,55<=,0,150,N,Distinction
+AAA,2014B,762,M,East Midlands Region,Lower Than A Level,70-80%,55<=,2,30,N,Pass
+CCC,2013J,763,F,South West Region,HE Qualification,40-50%,0-35,1,60,N,Pass
+DDD,2013J,763,F,East Anglian Region,HE Qualification,90-100%,0-35,0,90,N,Fail
+CCC,2014B,764,M,East Anglian Region,Lower Than A Level,60-70%,0-35,0,150,N,Pass
+BBB,2013J,764,F,East Midlands Region,No Formal quals,40-50%,55<=,2,150,N,Fail
+EEE,2013J,765,M,London Region,HE Qualification,50-60%,35-55,1,30,Y,Fail
+CCC,2014B,765,M,East Midlands Region,No Formal quals,40-50%,55<=,0,150,N,Fail
+EEE,2014B,766,F,Wales,Lower Than A Level,90-100%,55<=,2,60,Y,Pass
+CCC,2014B,766,F,North Western Region,A Level or Equivalent,30-40%,0-35,2,60,N,Pass
+BBB,2013J,767,M,West Midlands Region,Post Graduate Qualification,90-100%,35-55,1,90,N,Distinction
+CCC,2013J,768,M,East Midlands Region,No Formal quals,20-30%,35-55,2,150,Y,Withdrawn
+DDD,2014B,768,F,East Midlands Region,No Formal quals,30-40%,35-55,0,60,N,Pass
+BBB,2014B,769,F,Scotland,A Level or Equivalent,80-90%,35-55,0,90,N,Pass
+AAA,2013J,769,M,East Anglian Region,Post Graduate Qualification,20-30%,35-55,1,30,N,Fail
+EEE,2013J,770,F,West Midlands Region,A Level or Equivalent,90-100%,35-55,2,30,N,Fail
+BBB,2013J,770,M,North Western Region,Lower Than A Level,20-30%,35-55,1,120,Y,Pass
+AAA,2013J,771,M,West Midlands Region,Post Graduate Qualification,0-10%,35-55,0,60,N,Distinction
+DDD,2013J,772,F,Scotland,Lower Than A Level,60-70%,0-35,2,30,N,Fail
+EEE,2014B,772,F,South Region,No Formal quals,80-90%,55<=,0,150,N,Pass
+BBB,2014B,773,F,North Western Region,Post Graduate Qualification,10-20%,35-55,2,120,N,Pass
+AAA,2013J,774,F,South Region,HE Qualification,10-20%,55<=,2,60,N,Pass
+CCC,2014B,774,M,South Region,Lower Than A Level,70-80%,55<=,0,60,N,Pass
+CCC,2013J,775,F,East Midlands Region,Lower Than A Level,60-70%,35-55,2,30,N,Fail
+BBB,2013J,775,M,South East Region,Lower Than A Level,80-90%,0-35,2,90,N,Pass
+AAA,2014B,776,F,North Western Region,No Formal quals,30-40%,35-55,2,90,N,Pass
+CCC,2014B,776,F,North Region,Post Graduate Qualification,90-100%,35-55,2,30,N,Pass
+AAA,2014B,777,F,London Region,Post Graduate Qualification,30-40%,35-55,1,120,N,Pass
+CCC,2014B,777,F,South East Region,Post Graduate Qualification,90-100%,0-35,0,150,N,Distinction
+BBB,2013J,778,F,West Midlands Region,Lower Than A Level,40-50%,55<=,2,90,N,Distinction
+DDD,2014B,778,M,London Region,A Level or Equivalent,60-70%,55<=,1,90,N,Distinction
+CCC,2013J,779,M,South East Region,No Formal quals,60-70%,35-55,0,60,Y,Withdrawn
+AAA,2013J,779,M,South Region,Post Graduate Qualification,0-10%,55<=,0,150,N,Distinction
+DDD,2014B,780,M,East Anglian Region,Lower Than A Level,90-100%,35-55,0,120,N,Fail
+AAA,2013J,781,F,South Region,No Formal quals,70-80%,0-35,1,30,N,Pass
+BBB,2014B,781,M,West Midlands Region,HE Qualification,10-20%,0-35,0,30,N,Distinction
+DDD,2014B,782,M,Scotland,HE Qualification,60-70%,0-35,1,150,N,Distinction
+CCC,2014B,782,F,East Midlands Region,No Formal quals,40-50%,55<=,1,60,N,Pass
+AAA,2014B,783,F,South Region,A Level or Equivalent,30-40%,55<=,0,150,N,Withdrawn
+EEE,2013J,783,M,West Midlands Region,HE Qualification,60-70%,35-55,0,90,N,Pass
+BBB,2014B,784,M,North Western Region,Lower Than A Level,70-80%,35-55,0,90,N,Pass
+DDD,2014B,784,F,North Region,HE Qualification,50-60%,55<=,2,150,N,Pass
+DDD,2013J,785,F,North Western Region,No Formal quals,80-90%,0-35,0,150,N,Fail
+EEE,2013J,785,F,North Western Region,No Formal quals,20-30%,0-35,2,150,N,Pass
+EEE,2013J,786,M,South East Region,Post Graduate Qualification,40-50%,35-55,1,60,N,Withdrawn
+CCC,2014B,786,F,South West Region,Post Graduate Qualification,0-10%,35-55,1,150,N,Distinction
+EEE,2013J,787,M,Wales,Post Graduate Qualification,10-20%,55<=,2,150,N,Pass
+BBB,2014B,788,F,North Western Region,A Level or Equivalent,70-80%,35-55,1,30,N,Pass
+DDD,2013J,789,M,South East Region,A Level or Equivalent,90-100%,0-35,2,90,N,Fail
+EEE,2013J,789,F,North Western Region,HE Qualification,30-40%,0-35,2,60,N,Withdrawn
+DDD,2014B,790,F,South Region,No Formal quals,70-80%,0-35,1,120,N,Fail
+EEE,2014B,791,M,North Region,A Level or Equivalent,40-50%,55<=,1,90,N,Distinction
+CCC,2014B,791,F,North Region,No Formal quals,30-40%,35-55,1,150,N,Pass
+CCC,2014B,792,F,North Western Region,HE Qualification,10-20%,35-55,1,120,N,Pass
+DDD,2013J,793,F,South East Region,Lower Than A Level,0-10%,0-35,2,150,N,Pass
+AAA,2014B,794,F,North Western Region,Lower Than A Level,40-50%,0-35,2,120,N,Fail
+DDD,2014B,795,F,North Region,HE Qualification,80-90%,0-35,0,150,Y,Pass
+AAA,2013J,796,M,London Region,Post Graduate Qualification,60-70%,55<=,0,150,N,Pass
+AAA,2013J,797,M,London Region,No Formal quals,60-70%,55<=,2,120,N,Fail
+AAA,2014B,798,F,West Midlands Region,A Level or Equivalent,90-100%,55<=,1,60,N,Fail
+DDD,2014B,798,M,Wales,A Level or Equivalent,70-80%,0-35,2,60,Y,Distinction
+BBB,2014B,799,M,Scotland,Post Graduate Qualification,30-40%,35-55,1,90,Y,Distinction
+EEE,2013J,800,M,West Midlands Region,No Formal quals,70-80%,35-55,2,30,N,Fail
+BBB,2013J,800,M,Wales,Lower Than A Level,0-10%,35-55,0,60,Y,Fail
+CCC,2013J,801,M,North Western Region,HE Qualification,50-60%,55<=,0,150,N,Pass
+CCC,2014B,802,M,London Region,Lower Than A Level,90-100%,35-55,1,120,N,Pass
+AAA,2013J,802,M,East Midlands Region,No Formal quals,50-60%,0-35,0,60,Y,Pass
+BBB,2013J,803,M,South West Region,A Level or Equivalent,60-70%,35-55,1,120,N,Pass
+DDD,2014B,804,F,East Anglian Region,No Formal quals,0-10%,35-55,1,60,N,Pass
+EEE,2013J,805,M,South Region,A Level or Equivalent,10-20%,35-55,2,30,N,Distinction
+CCC,2014B,805,M,East Anglian Region,No Formal quals,30-40%,0-35,1,60,Y,Pass
+DDD,2013J,806,F,South West Region,A Level or Equivalent,20-30%,55<=,0,150,N,Withdrawn
+CCC,2014B,807,M,Wales,A Level or Equivalent,40-50%,55<=,1,30,N,Pass
+DDD,2014B,807,F,South Region,HE Qualification,0-10%,0-35,0,90,N,Pass
+BBB,2013J,808,F,East Anglian Region,Lower Than A Level,30-40%,35-55,1,150,N,Distinction
+EEE,2014B,808,M,South Region,No Formal quals,40-50%,35-55,0,150,N,Fail
+CCC,2014B,809,M,North Region,Lower Than A Level,40-50%,35-55,2,90,N,Pass
+AAA,2013J,809,M,South West Region,HE Qualification,70-80%,55<=,2,150,N,Pass
+DDD,2014B,810,F,Scotland,No Formal quals,0-10%,55<=,0,30,N,Withdrawn
+AAA,2014B,811,F,London Region,A Level or Equivalent,30-40%,55<=,0,30,N,Fail
+DDD,2014B,812,M,East Anglian Region,Post Graduate Qualification,40-50%,55<=,2,120,N,Pass
+BBB,2014B,812,F,South Region,No Formal quals,90-100%,0-35,0,30,N,Fail
+CCC,2013J,813,M,Scotland,No Formal quals,0-10%,0-35,2,120,N,Pass
+EEE,2014B,813,F,South East Region,HE Qualification,90-100%,0-35,2,90,Y,Withdrawn
+DDD,2013J,814,M,South West Region,Post Graduate Qualification,60-70%,0-35,0,60,N,Distinction
+CCC,2014B,815,F,West Midlands Region,Lower Than A Level,70-80%,55<=,0,30,N,Distinction
+DDD,2014B,815,M,Scotland,No Formal quals,20-30%,35-55,1,120,N,Pass
+DDD,2014B,816,M,East Anglian Region,Post Graduate Qualification,10-20%,0-35,0,90,N,Withdrawn
+EEE,2013J,816,F,South West Region,HE Qualification,30-40%,35-55,2,30,N,Withdrawn
+BBB,2013J,817,M,North Western Region,No Formal quals,90-100%,55<=,1,120,N,Pass
+BBB,2013J,818,F,South East Region,HE Qualification,70-80%,55<=,2,120,N,Pass
+AAA,2014B,819,F,North Western Region,Post Graduate Qualification,90-100%,35-55,1,150,N,Fail
+AAA,2014B,820,M,Wales,No Formal quals,50-60%,55<=,0,150,N,Fail
+BBB,2014B,820,F,East Anglian Region,No Formal quals,70-80%,0-35,2,90,N,Pass
+DDD,2013J,821,M,Wales,Lower Than A Level,50-60%,35-55,0,30,N,Pass
+EEE,2014B,822,M,East Midlands Region,Post Graduate Qualification,70-80%,55<=,1,150,N,Pass
+AAA,2014B,823,F,South West Region,Lower Than A Level,50-60%,0-35,1,150,N,Fail
+DDD,2014B,824,F,North Region,Lower Than A Level,70-80%,35-55,2,60,N,Distinction
+CCC,2013J,824,M,South East Region,Lower Than A Level,10-20%,0-35,0,60,Y,Pass
+DDD,2014B,825,M,Wales,Post Graduate Qualification,90-100%,0-35,1,150,Y,Pass
+BBB,2013J,826,F,East Anglian Region,No Formal quals,80-90%,55<=,0,30,N,Distinction
+EEE,2014B,826,F,South West Region,Lower Than A Level,0-10%,55<=,1,30,Y,Withdrawn
+DDD,2013J,827,M,North Region,A Level or Equivalent,80-90%,0-35,2,120,N,Pass
+AAA,2013J,828,M,South West Region,No Formal quals,20-30%,55<=,2,90,Y,Distinction
+EEE,2014B,829,F,South Region,A Level or Equivalent,70-80%,55<=,0,60,N,Distinction
+EEE,2013J,830,M,East Midlands Region,A Level or Equivalent,10-20%,0-35,0,150,N,Distinction
+AAA,2013J,830,F,North Western Region,Post Graduate Qualification,90-100%,35-55,0,150,N,Fail
+EEE,2013J,831,F,Wales,No Formal quals,40-50%,35-55,0,90,N,Fail
+DDD,2013J,831,M,West Midlands Region,No Formal quals,20-30%,0-35,0,90,N,Distinction
+AAA,2013J,832,F,South Region,No Formal quals,0-10%,0-35,2,30,N,Fail
+EEE,2014B,833,M,London Region,Lower Than A Level,70-80%,55<=,0,90,N,Distinction
+BBB,2014B,834,M,South East Region,A Level or Equivalent,20-30%,55<=,1,150,Y,Pass
+EEE,2013J,835,M,South Region,Post Graduate Qualification,80-90%,0-35,0,120,N,Pass
+AAA,2014B,835,M,East Anglian Region,HE Qualification,30-40%,35-55,2,90,N,Withdrawn
+AAA,2013J,836,F,East Anglian Region,HE Qualification,70-80%,55<=,1,150,N,Distinction
+DDD,2014B,837,M,South West Region,Post Graduate Qualification,30-40%,55<=,1,150,N,Pass
+CCC,2014B,838,F,South West Region,No Formal quals,40-50%,55<=,1,60,N,Pass
+EEE,2014B,838,F,South East Region,A Level or Equivalent,60-70%,55<=,0,30,N,Pass
+CCC,2013J,839,M,East Midlands Region,Lower Than A Level,30-40%,55<=,2,30,N,Pass
+EEE,2014B,839,M,South East Region,Post Graduate Qualification,10-20%,0-35,1,120,N,Pass
+CCC,2014B,840,F,East Anglian Region,Lower Than A Level,30-40%,55<=,0,60,N,Fail
+EEE,2014B,841,F,East Midlands Region,Post Graduate Qualification,0-10%,0-35,2,30,N,Distinction
+BBB,2013J,841,F,South Region,No Formal quals,30-40%,55<=,1,90,N,Withdrawn
+EEE,2014B,842,M,Wales,Lower Than A Level,80-90%,55<=,0,30,N,Pass
+CCC,2014B,842,F,London Region,Post Graduate Qualification,60-70%,35-55,2,90,N,Fail
+EEE,2013J,843,F,South Region,No Formal quals,70-80%,35-55,1,120,N,Fail
+AAA,2013J,843,F,South East Region,A Level or Equivalent,40-50%,55<=,2,60,N,Fail
+EEE,2013J,844,F,East Anglian Region,A Level or Equivalent,20-30%,0-35,0,150,N,Pass
+DDD,2014B,845,F,South East Region,Post Graduate Qualification,0-10%,0-35,0,120,N,Pass
+CCC,2013J,845,M,West Midlands Region,No Formal quals,50-60%,35-55,0,90,Y,Fail
+EEE,2014B,846,F,Scotland,Post Graduate Qualification,40-50%,0-35,2,30,N,Pass
+AAA,2014B,846,F,West Midlands Region,HE Qualification,40-50%,35-55,0,30,N,Withdrawn
+BBB,2014B,847,F,North Region,HE Qualification,40-50%,0-35,0,30,N,Pass
+EEE,2013J,848,F,South West Region,Lower Than A Level,40-50%,0-35,2,120,N,Distinction
+DDD,2013J,849,F,North Region,A Level or Equivalent,50-60%,0-35,1,120,Y,Pass
+EEE,2013J,850,F,Scotland,Post Graduate Qualification,40-50%,55<=,2,150,N,Pass
+DDD,2013J,851,M,South West Region,Lower Than A Level,90-100%,35-55,1,60,N,Fail
+AAA,2014B,852,F,London Region,Lower Than A Level,10-20%,55<=,0,30,N,Pass
+DDD,2014B,852,F,London Region,Post Graduate Qualification,20-30%,35-55,2,60,N,Fail
+DDD,2014B,853,F,London Region,Post Graduate Qualification,0-10%,55<=,0,60,N,Pass
+AAA,2014B,854,M,South West Region,Lower Than A Level,0-10%,35-55,2,60,N,Pass
+DDD,2013J,854,M,North Western Region,Lower Than A Level,0-10%,35-55,2,120,N,Pass
+CCC,2013J,855,F,North Western Region,Lower Than A Level,80-90%,55<=,2,120,N,Fail
+DDD,2013J,856,M,East Anglian Region,A Level or Equivalent,70-80%,35-55,2,150,Y,Distinction
+CCC,2013J,856,F,Wales,No Formal quals,80-90%,35-55,1,90,N,Fail
+BBB,2013J,857,F,East Anglian Region,Post Graduate Qualification,90-100%,55<=,0,60,N,Withdrawn
+DDD,2014B,857,F,North Western Region,Post Graduate Qualification,10-20%,35-55,0,90,N,Pass
+EEE,2014B,858,M,Scotland,No Formal quals,90-100%,55<=,1,90,N,Pass
+AAA,2013J,858,F,East Anglian Region,Lower Than A Level,60-70%,35-55,2,120,N,Withdrawn
+CCC,2014B,859,F,East Anglian Region,Lower Than A Level,50-60%,55<=,2,120,N,Distinction
+DDD,2014B,860,F,South East Region,No Formal quals,40-50%,0-35,2,150,N,Withdrawn
+CCC,2014B,861,M,South West Region,Lower Than A Level,70-80%,0-35,2,60,Y,Pass
+DDD,2014B,861,F,North Region,A Level or Equivalent,0-10%,55<=,2,120,N,Fail
+CCC,2014B,862,F,North Region,HE Qualification,90-100%,55<=,0,120,Y,Fail
+BBB,2013J,862,M,West Midlands Region,Post Graduate Qualification,40-50%,35-55,1,90,N,Pass
+BBB,2013J,863,M,South Region,HE Qualification,60-70%,0-35,2,30,N,Withdrawn
+AAA,2014B,864,M,Wales,No Formal quals,90-100%,55<=,0,150,N,Fail
+BBB,2013J,865,F,North Western Region,Post Graduate Qualification,0-10%,55<=,2,60,N,Withdrawn
+EEE,2013J,865,F,Scotland,A Level or Equivalent,90-100%,0-35,1,30,N,Pass
+DDD,2013J,866,M,West Midlands Region,Post Graduate Qualification,0-10%,0-35,0,30,N,Withdrawn
+CCC,2014B,866,M,North Region,HE Qualification,30-40%,35-55,1,150,N,Withdrawn
+AAA,2013J,867,M,South Region,No Formal quals,70-80%,35-55,0,30,Y,Fail
+CCC,2013J,867,M,East Anglian Region,No Formal quals,0-10%,35-55,1,120,N,Fail
+DDD,2013J,868,M,South Region,Post Graduate Qualification,0-10%,0-35,1,60,N,Fail
+BBB,2014B,868,F,South East Region,A Level or Equivalent,80-90%,0-35,2,120,Y,Distinction
+BBB,2014B,869,M,North Western Region,A Level or Equivalent,20-30%,35-55,2,120,N,Fail
+DDD,2013J,869,F,North Region,Lower Than A Level,0-10%,55<=,1,60,N,Withdrawn
+EEE,2013J,870,M,Scotland,Lower Than A Level,20-30%,0-35,2,90,N,Withdrawn
+AAA,2013J,870,F,East Midlands Region,Post Graduate Qualification,40-50%,0-35,1,60,N,Withdrawn
+BBB,2013J,871,M,South East Region,No Formal quals,60-70%,55<=,1,30,N,Withdrawn
+AAA,2014B,871,F,South West Region,Post Graduate Qualification,20-30%,55<=,1,150,Y,Distinction
+DDD,2013J,872,F,East Anglian Region,A Level or Equivalent,60-70%,55<=,2,150,N,Pass
+BBB,2014B,873,F,East Anglian Region,Lower Than A Level,40-50%,0-35,0,60,N,Withdrawn
+CCC,2013J,874,F,Scotland,Lower Than A Level,50-60%,35-55,0,60,N,Pass
+EEE,2014B,874,F,East Midlands Region,Post Graduate Qualification,10-20%,0-35,0,30,N,Fail
+BBB,2014B,875,M,East Midlands Region,A Level or Equivalent,30-40%,55<=,1,30,N,Distinction
+DDD,2014B,876,F,West Midlands Region,HE Qualification,0-10%,0-35,0,60,N,Distinction
+EEE,2014B,876,F,East Midlands Region,No Formal quals,70-80%,0-35,0,60,N,Pass
+EEE,2014B,877,M,North Western Region,Lower Than A Level,90-100%,0-35,2,90,N,Distinction
+CCC,2014B,878,F,East Anglian Region,Lower Than A Level,10-20%,0-35,0,60,N,Withdrawn
+CCC,2013J,879,F,East Anglian Region,A Level or Equivalent,40-50%,0-35,2,60,N,Fail
+CCC,2013J,880,M,South Region,Post Graduate Qualification,70-80%,35-55,1,150,N,Fail
+DDD,2013J,881,F,East Anglian Region,Post Graduate Qualification,40-50%,55<=,1,120,N,Fail
+EEE,2013J,882,F,South Region,HE Qualification,10-20%,35-55,2,150,N,Fail
+CCC,2014B,882,M,North Region,Lower Than A Level,50-60%,55<=,1,60,N,Distinction
+BBB,2014B,883,M,Scotland,HE Qualification,20-30%,35-55,0,30,N,Distinction
+AAA,2014B,883,M,Scotland,A Level or Equivalent,10-20%,55<=,1,60,Y,Pass
+AAA,2014B,884,F,West Midlands Region,Post Graduate Qualification,10-20%,0-35,0,150,N,Pass
+AAA,2014B,885,M,Scotland,Lower Than A Level,50-60%,0-35,1,90,N,Pass
+BBB,2013J,886,M,South West Region,No Formal quals,10-20%,0-35,2,120,N,Pass
+DDD,2013J,887,M,Scotland,Post Graduate Qualification,60-70%,35-55,0,30,N,Fail
+BBB,2014B,887,M,South Region,No Formal quals,40-50%,55<=,0,120,Y,Distinction
+AAA,2014B,888,M,Wales,HE Qualification,70-80%,55<=,2,120,N,Pass
+AAA,2014B,889,M,Wales,HE Qualification,20-30%,35-55,1,150,N,Fail
+AAA,2014B,890,M,East Anglian Region,HE Qualification,0-10%,55<=,2,150,N,Distinction
+DDD,2013J,891,F,East Midlands Region,Post Graduate Qualification,30-40%,35-55,2,90,N,Pass
+BBB,2013J,892,F,North Western Region,A Level or Equivalent,90-100%,35-55,1,60,Y,Fail
+EEE,2014B,892,F,South West Region,Post Graduate Qualification,0-10%,55<=,2,120,N,Fail
+BBB,2014B,893,F,North Region,Post Graduate Qualification,20-30%,35-55,1,30,N,Withdrawn
+EEE,2014B,893,F,East Anglian Region,Post Graduate Qualification,40-50%,55<=,0,120,N,Withdrawn
+AAA,2014B,894,M,East Midlands Region,HE Qualification,40-50%,0-35,0,90,N,Distinction
+EEE,2013J,894,F,South Region,Lower Than A Level,40-50%,35-55,1,30,N,Pass
+EEE,2014B,895,F,East Anglian Region,No Formal quals,40-50%,35-55,1,150,N,Withdrawn
+EEE,2013J,896,M,South Region,A Level or Equivalent,20-30%,55<=,0,150,N,Pass
+BBB,2014B,896,M,North Western Region,No Formal quals,50-60%,35-55,0,90,N,Pass
+AAA,2013J,897,M,South Region,A Level or Equivalent,20-30%,35-55,1,150,N,Pass
+DDD,2014B,898,F,London Region,Lower Than A Level,20-30%,35-55,1,120,N,Fail
+AAA,2013J,899,M,East Midlands Region,Lower Than A Level,90-100%,0-35,1,60,N,Fail
+AAA,2014B,900,M,South West Region,A Level or Equivalent,90-100%,35-55,0,90,Y,Fail
+EEE,2013J,901,M,South Region,Post Graduate Qualification,80-90%,0-35,2,90,N,Distinction
+AAA,2013J,902,F,North Western Region,A Level or Equivalent,80-90%,55<=,1,120,N,Fail
+BBB,2014B,903,M,North Region,No Formal quals,0-10%,35-55,0,30,N,Pass
+BBB,2013J,904,M,East Anglian Region,Post Graduate Qualification,20-30%,55<=,0,150,N,Fail
+EEE,2014B,904,F,West Midlands Region,A Level or Equivalent,70-80%,0-35,0,120,N,Pass
+AAA,2014B,905,M,South West Region,HE Qualification,10-20%,55<=,2,30,N,Pass
+DDD,2014B,906,F,Wales,No Formal quals,70-80%,35-55,1,150,N,Pass
+EEE,2013J,906,M,East Anglian Region,Lower Than A Level,20-30%,35-55,1,150,N,Fail
+DDD,2013J,907,M,London Region,Lower Than A Level,60-70%,55<=,1,30,N,Pass
+CCC,2013J,908,F,North Region,Lower Than A Level,50-60%,55<=,1,150,N,Pass
+AAA,2013J,908,F,East Anglian Region,No Formal quals,40-50%,55<=,2,150,N,Pass
+AAA,2013J,909,F,East Anglian Region,Post Graduate Qualification,80-90%,55<=,1,60,N,Fail
+EEE,2014B,909,M,South East Region,Post Graduate Qualification,20-30%,35-55,0,120,N,Pass
+EEE,2014B,910,F,South East Region,HE Qualification,20-30%,0-35,2,90,N,Pass
+AAA,2013J,910,M,Wales,A Level or Equivalent,0-10%,55<=,2,120,N,Pass
+DDD,2013J,911,F,North Region,No Formal quals,70-80%,0-35,0,60,N,Pass
+AAA,2014B,911,F,Wales,No Formal quals,40-50%,55<=,2,90,N,Withdrawn
+DDD,2013J,912,M,South Region,Post Graduate Qualification,0-10%,55<=,1,60,N,Pass
+DDD,2013J,913,F,South East Region,HE Qualification,10-20%,35-55,2,30,N,Pass
+BBB,2013J,913,F,North Region,Post Graduate Qualification,10-20%,35-55,0,120,N,Pass
+AAA,2013J,914,F,West Midlands Region,HE Qualification,60-70%,0-35,0,60,N,Fail
+CCC,2014B,915,F,East Midlands Region,A Level or Equivalent,20-30%,55<=,2,90,N,Withdrawn
+BBB,2013J,915,M,North Region,No Formal quals,40-50%,35-55,1,120,N,Pass
+BBB,2014B,916,F,South West Region,Post Graduate Qualification,10-20%,55<=,1,90,N,Distinction
+EEE,2014B,916,M,North Region,Post Graduate Qualification,80-90%,55<=,0,30,N,Pass
+DDD,2013J,917,M,West Midlands Region,Lower Than A Level,30-40%,35-55,1,150,N,Pass
+DDD,2013J,918,F,North Region,HE Qualification,40-50%,0-35,1,120,Y,Pass
+DDD,2013J,919,M,East Anglian Region,HE Qualification,50-60%,0-35,1,120,N,Fail
+EEE,2014B,919,M,Wales,HE Qualification,30-40%,55<=,0,60,N,Distinction
+DDD,2014B,920,F,East Midlands Region,HE Qualification,30-40%,55<=,1,90,N,Distinction
+CCC,2014B,921,F,South Region,Post Graduate Qualification,90-100%,0-35,2,60,N,Fail
+AAA,2014B,922,M,London Region,HE Qualification,90-100%,0-35,2,150,N,Pass
+CCC,2014B,922,M,East Midlands Region,HE Qualification,20-30%,55<=,1,120,N,Pass
+AAA,2014B,923,F,London Region,Lower Than A Level,10-20%,35-55,1,30,N,Pass
+EEE,2014B,923,F,South West Region,HE Qualification,80-90%,55<=,2,30,N,Pass
+BBB,2014B,924,M,West Midlands Region,No Formal quals,0-10%,55<=,0,60,N,Fail
+EEE,2013J,924,F,West Midlands Region,Lower Than A Level,20-30%,35-55,1,60,N,Fail
+BBB,2014B,925,F,South East Region,No Formal quals,30-40%,0-35,1,150,N,Fail
+EEE,2013J,925,M,West Midlands Region,No Formal quals,40-50%,0-35,0,30,N,Pass
+AAA,2014B,926,F,North Western Region,Post Graduate Qualification,60-70%,35-55,2,60,N,Fail
+BBB,2014B,926,M,London Region,Lower Than A Level,10-20%,0-35,1,30,N,Pass
+BBB,2013J,927,F,Scotland,HE Qualification,70-80%,0-35,2,150,N,Pass
+AAA,2014B,927,M,East Anglian Region,No Formal quals,90-100%,0-35,2,90,N,Withdrawn
+CCC,2013J,928,F,West Midlands Region,HE Qualification,90-100%,0-35,0,120,N,Fail
+DDD,2013J,929,M,East Anglian Region,Post Graduate Qualification,10-20%,55<=,1,120,N,Fail
+DDD,2013J,930,F,South Region,No Formal quals,20-30%,55<=,0,150,N,Pass
+CCC,2014B,930,M,South Region,A Level or Equivalent,90-100%,0-35,2,30,N,Fail
+DDD,2014B,931,F,Scotland,Lower Than A Level,90-100%,35-55,1,120,N,Fail
+BBB,2014B,931,F,West Midlands Region,Lower Than A Level,90-100%,0-35,0,150,N,Withdrawn
+CCC,2014B,932,M,London Region,No Formal quals,20-30%,0-35,0,150,N,Fail
+EEE,2013J,932,M,Wales,Post Graduate Qualification,50-60%,35-55,1,30,N,Pass
+DDD,2013J,933,M,North Region,Lower Than A Level,80-90%,35-55,2,120,N,Distinction
+EEE,2013J,934,M,Wales,HE Qualification,60-70%,0-35,0,120,N,Fail
+AAA,2014B,934,M,South West Region,Lower Than A Level,30-40%,35-55,1,90,N,Withdrawn
+BBB,2014B,935,F,South East Region,A Level or Equivalent,10-20%,55<=,0,90,N,Fail
+EEE,2014B,935,F,Wales,A Level or Equivalent,90-100%,35-55,1,30,N,Pass
+EEE,2014B,936,F,Wales,A Level or Equivalent,90-100%,35-55,1,30,N,Pass
+AAA,2014B,936,M,East Anglian Region,No Formal quals,30-40%,35-55,2,30,N,Distinction
+DDD,2013J,937,F,East Anglian Region,Lower Than A Level,60-70%,55<=,2,60,N,Pass
+CCC,2014B,937,M,North Region,A Level or Equivalent,70-80%,55<=,0,90,N,Pass
+BBB,2013J,938,F,Scotland,HE Qualification,70-80%,55<=,1,90,N,Pass
+AAA,2014B,938,F,North Region,Lower Than A Level,40-50%,0-35,0,60,N,Fail
+BBB,2013J,939,F,Scotland,A Level or Equivalent,20-30%,55<=,2,60,Y,Fail
+EEE,2014B,940,F,Wales,A Level or Equivalent,80-90%,0-35,1,30,N,Fail
+BBB,2014B,940,F,South Region,A Level or Equivalent,30-40%,0-35,0,120,N,Pass
+EEE,2013J,941,F,East Midlands Region,HE Qualification,10-20%,0-35,1,30,N,Withdrawn
+CCC,2014B,941,F,South East Region,Lower Than A Level,50-60%,55<=,2,30,N,Fail
+AAA,2014B,942,M,East Anglian Region,No Formal quals,90-100%,0-35,0,30,N,Pass
+BBB,2013J,942,M,North Region,HE Qualification,80-90%,35-55,2,150,N,Pass
+AAA,2014B,943,M,London Region,Lower Than A Level,40-50%,0-35,2,30,N,Pass
+CCC,2014B,943,F,London Region,A Level or Equivalent,90-100%,0-35,0,120,N,Distinction
+CCC,2014B,944,F,West Midlands Region,No Formal quals,60-70%,0-35,1,120,N,Pass
+BBB,2013J,944,F,South East Region,HE Qualification,0-10%,55<=,1,150,N,Pass
+AAA,2014B,945,M,East Anglian Region,Lower Than A Level,30-40%,35-55,2,150,N,Pass
+CCC,2013J,945,F,East Anglian Region,Post Graduate Qualification,20-30%,0-35,1,30,N,Distinction
+BBB,2014B,946,F,South Region,HE Qualification,90-100%,0-35,1,30,N,Pass
+AAA,2013J,946,F,Wales,A Level or Equivalent,30-40%,0-35,0,30,N,Distinction
+BBB,2014B,947,M,North Western Region,No Formal quals,40-50%,35-55,2,120,N,Pass
+AAA,2013J,948,F,East Midlands Region,A Level or Equivalent,50-60%,0-35,2,150,N,Pass
+CCC,2014B,948,M,London Region,A Level or Equivalent,50-60%,35-55,1,30,N,Fail
+DDD,2014B,949,F,West Midlands Region,No Formal quals,10-20%,35-55,2,60,N,Fail
+BBB,2014B,950,M,Scotland,Lower Than A Level,70-80%,0-35,2,90,N,Pass
+DDD,2014B,951,F,South Region,HE Qualification,10-20%,35-55,2,150,N,Pass
+BBB,2014B,951,F,East Anglian Region,No Formal quals,40-50%,0-35,1,60,N,Fail
+AAA,2013J,952,F,East Anglian Region,Post Graduate Qualification,20-30%,35-55,2,30,N,Pass
+EEE,2013J,952,M,Wales,HE Qualification,30-40%,0-35,0,120,N,Fail
+DDD,2014B,953,M,South Region,A Level or Equivalent,10-20%,35-55,1,90,N,Pass
+EEE,2013J,954,F,Wales,HE Qualification,10-20%,55<=,0,60,N,Distinction
+AAA,2014B,954,M,South East Region,A Level or Equivalent,80-90%,55<=,2,60,N,Distinction
+EEE,2014B,955,M,South East Region,No Formal quals,60-70%,35-55,0,30,N,Fail
+CCC,2014B,956,F,Scotland,Lower Than A Level,0-10%,0-35,1,60,N,Pass
+DDD,2013J,956,M,North Western Region,Lower Than A Level,10-20%,0-35,0,120,N,Pass
+DDD,2014B,957,M,North Western Region,Post Graduate Qualification,70-80%,35-55,0,150,N,Pass
+BBB,2014B,958,M,West Midlands Region,Post Graduate Qualification,50-60%,55<=,1,90,N,Pass
+AAA,2014B,958,M,London Region,Post Graduate Qualification,70-80%,55<=,1,120,N,Fail
+AAA,2014B,959,F,East Anglian Region,Post Graduate Qualification,10-20%,0-35,0,90,Y,Withdrawn
+EEE,2013J,960,M,South Region,Lower Than A Level,20-30%,0-35,2,60,N,Pass
+DDD,2013J,961,M,Wales,Lower Than A Level,10-20%,55<=,0,90,N,Withdrawn
+CCC,2013J,961,F,Wales,Post Graduate Qualification,0-10%,0-35,0,120,N,Distinction
+AAA,2013J,962,M,West Midlands Region,A Level or Equivalent,70-80%,55<=,1,30,N,Distinction
+BBB,2014B,963,F,London Region,A Level or Equivalent,40-50%,55<=,0,150,N,Fail
+CCC,2013J,963,F,Scotland,Post Graduate Qualification,10-20%,55<=,1,30,N,Pass
+DDD,2014B,964,M,West Midlands Region,Post Graduate Qualification,70-80%,0-35,0,60,N,Distinction
+CCC,2013J,964,M,East Anglian Region,No Formal quals,30-40%,35-55,1,60,N,Pass
+CCC,2013J,965,F,South West Region,HE Qualification,20-30%,35-55,0,60,N,Pass
+BBB,2014B,965,F,East Midlands Region,Lower Than A Level,90-100%,35-55,2,30,N,Fail
+CCC,2014B,966,F,West Midlands Region,No Formal quals,70-80%,35-55,2,30,N,Pass
+DDD,2013J,966,F,South East Region,A Level or Equivalent,50-60%,35-55,0,150,N,Distinction
+BBB,2013J,967,F,South West Region,A Level or Equivalent,60-70%,35-55,0,90,N,Fail
+EEE,2013J,967,M,East Anglian Region,Lower Than A Level,50-60%,55<=,2,120,N,Distinction
+CCC,2013J,968,F,South Region,Post Graduate Qualification,40-50%,35-55,2,150,N,Pass
+BBB,2014B,968,M,West Midlands Region,HE Qualification,20-30%,35-55,2,30,N,Pass
+AAA,2014B,969,F,London Region,A Level or Equivalent,60-70%,0-35,2,150,N,Withdrawn
+BBB,2013J,969,F,North Region,Post Graduate Qualification,70-80%,55<=,1,60,N,Pass
+EEE,2014B,970,F,East Anglian Region,Lower Than A Level,90-100%,55<=,2,150,N,Withdrawn
+DDD,2013J,971,M,West Midlands Region,No Formal quals,60-70%,0-35,0,30,N,Fail
+CCC,2014B,971,M,London Region,Lower Than A Level,10-20%,0-35,0,120,N,Fail
+AAA,2014B,972,F,South West Region,HE Qualification,0-10%,55<=,0,150,N,Fail
+DDD,2013J,973,F,South West Region,Post Graduate Qualification,10-20%,35-55,1,60,N,Withdrawn
+CCC,2013J,974,F,Wales,Lower Than A Level,50-60%,35-55,2,60,N,Pass
+CCC,2013J,975,F,South Region,HE Qualification,30-40%,0-35,0,60,N,Distinction
+AAA,2014B,975,F,South West Region,Post Graduate Qualification,0-10%,55<=,0,30,N,Pass
+DDD,2013J,976,M,North Western Region,HE Qualification,10-20%,55<=,2,150,N,Pass
+BBB,2013J,977,M,London Region,A Level or Equivalent,80-90%,0-35,2,90,N,Pass
+DDD,2014B,977,M,Scotland,Post Graduate Qualification,20-30%,55<=,0,150,N,Withdrawn
+CCC,2014B,978,M,London Region,No Formal quals,50-60%,55<=,0,30,N,Pass
+BBB,2014B,979,M,West Midlands Region,Lower Than A Level,20-30%,35-55,2,150,N,Distinction
+EEE,2014B,980,M,East Anglian Region,Lower Than A Level,80-90%,35-55,0,90,N,Distinction
+DDD,2013J,981,M,Scotland,No Formal quals,70-80%,0-35,0,120,N,Pass
+EEE,2013J,981,F,North Western Region,A Level or Equivalent,20-30%,0-35,1,90,N,Pass
+BBB,2014B,982,F,East Anglian Region,No Formal quals,40-50%,0-35,2,90,N,Fail
+DDD,2013J,982,F,North Region,No Formal quals,40-50%,55<=,1,60,N,Pass
+DDD,2014B,983,M,East Midlands Region,Post Graduate Qualification,80-90%,35-55,0,90,N,Withdrawn
+EEE,2013J,983,M,Wales,A Level or Equivalent,60-70%,35-55,2,120,N,Withdrawn
+BBB,2013J,984,M,West Midlands Region,HE Qualification,80-90%,55<=,0,30,N,Pass
+EEE,2014B,985,F,East Anglian Region,A Level or Equivalent,30-40%,55<=,2,90,N,Distinction
+EEE,2014B,986,F,East Midlands Region,Lower Than A Level,90-100%,35-55,1,30,Y,Fail
+DDD,2014B,987,F,Scotland,HE Qualification,60-70%,55<=,2,30,N,Distinction
+BBB,2013J,988,F,South Region,No Formal quals,10-20%,35-55,0,60,N,Withdrawn
+DDD,2014B,988,M,North Western Region,Lower Than A Level,10-20%,55<=,1,30,N,Pass
+DDD,2013J,989,M,South East Region,HE Qualification,50-60%,0-35,1,30,N,Pass
+AAA,2014B,990,M,Wales,No Formal quals,20-30%,55<=,1,120,N,Pass
+EEE,2013J,991,F,North Western Region,No Formal quals,80-90%,55<=,1,60,N,Pass
+DDD,2013J,991,F,Wales,Lower Than A Level,90-100%,35-55,0,30,Y,Pass
+EEE,2013J,992,F,North Region,Post Graduate Qualification,0-10%,55<=,0,30,N,Fail
+DDD,2014B,993,M,East Anglian Region,A Level or Equivalent,60-70%,35-55,1,60,N,Pass
+AAA,2013J,994,M,South West Region,HE Qualification,50-60%,0-35,2,60,N,Distinction
+BBB,2014B,995,M,Scotland,Post Graduate Qualification,70-80%,0-35,2,90,N,Pass
+BBB,2014B,996,M,Wales,Post Graduate Qualification,70-80%,0-35,1,120,N,Pass
+CCC,2013J,996,F,West Midlands Region,HE Qualification,80-90%,35-55,1,150,N,Pass
+DDD,2013J,997,F,North Western Region,A Level or Equivalent,20-30%,35-55,0,120,N,Pass
+AAA,2014B,997,F,North Region,HE Qualification,50-60%,55<=,0,60,Y,Withdrawn
+EEE,2013J,998,M,South Region,Post Graduate Qualification,70-80%,55<=,1,30,N,Fail
+BBB,2014B,998,F,East Anglian Region,HE Qualification,0-10%,35-55,1,150,N,Pass
+AAA,2014B,999,F,South East Region,No Formal quals,80-90%,55<=,1,90,Y,Withdrawn
+EEE,2014B,999,M,West Midlands Region,Lower Than A Level,80-90%,55<=,1,30,N,Pass
+AAA,2014B,1000,M,North Western Region,HE Qualification,30-40%,0-35,1,90,Y,Pass
